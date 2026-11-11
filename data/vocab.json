@@ -1,0 +1,8346 @@
+{
+ "source": "Give Me Five! 2 (Macmillan) – Pupil's Book + Activity Book + školní sešit slovíček",
+ "extractedAt": "2026-11-08",
+ "notes": [
+  "Pages = tištěná čísla stran Pupil's Booku.",
+  "lesson = číslo lekce v rámci unitu, kde se slovo učí (1 = Vocabulary, 2 = Grammar, 3 = Story, 4 = Vocabulary and Grammar, 5 = Speaking, 6 = Review).",
+  "plural: true = slovo se v učebnici používá jen/hlavně v množném čísle.",
+  "note = slovo není v hlavním seznamu samolepek; pochází z gramatického rámečku, příběhu, písničky nebo Activity Booku."
+ ],
+ "units": [
+  {
+   "id": "s-back-to-school",
+   "code": "S",
+   "title": "Let's go back to school!",
+   "pages": "4-7",
+   "order": 1,
+   "words": [
+    {
+     "id": "s-english",
+     "en": "English",
+     "cz": "angličtina",
+     "pos": "noun",
+     "emoji": "🇬🇧",
+     "lesson": 2,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My favourite subject is English.",
+       "cz": "Můj oblíbený předmět je angličtina."
+      }
+     ]
+    },
+    {
+     "id": "s-listen",
+     "en": "Listen",
+     "cz": "poslouchat",
+     "pos": "verb",
+     "emoji": "👂",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Listen to the song.",
+       "cz": "Poslouchej písničku."
+      }
+     ]
+    },
+    {
+     "id": "s-write",
+     "en": "Write",
+     "cz": "psát",
+     "pos": "verb",
+     "emoji": "✍️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Write your name.",
+       "cz": "Napiš své jméno."
+      }
+     ]
+    },
+    {
+     "id": "s-sing",
+     "en": "Sing",
+     "cz": "zpívat",
+     "pos": "verb",
+     "emoji": "🎤",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Sing a song!",
+       "cz": "Zazpívej písničku!"
+      }
+     ]
+    },
+    {
+     "id": "s-speak",
+     "en": "Speak",
+     "cz": "mluvit",
+     "pos": "verb",
+     "emoji": "🗣️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Speak English, please.",
+       "cz": "Mluv anglicky, prosím."
+      }
+     ]
+    },
+    {
+     "id": "s-his",
+     "en": "His",
+     "cz": "jeho",
+     "pos": "pron",
+     "emoji": null,
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "His name is Jake.",
+       "cz": "Jmenuje se Jake. (jeho jméno)"
+      }
+     ]
+    },
+    {
+     "id": "s-her",
+     "en": "Her",
+     "cz": "její",
+     "pos": "pron",
+     "emoji": null,
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Her name is Molly.",
+       "cz": "Jmenuje se Molly. (její jméno)"
+      }
+     ]
+    },
+    {
+     "id": "s-music",
+     "en": "Music",
+     "cz": "hudební výchova",
+     "pos": "noun",
+     "emoji": "🎵",
+     "lesson": 2,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My favourite subject is Music.",
+       "cz": "Můj oblíbený předmět je hudební výchova."
+      }
+     ]
+    },
+    {
+     "id": "s-arts-and-crafts",
+     "en": "Arts and crafts",
+     "cz": "výtvarná výchova",
+     "pos": "noun",
+     "emoji": "🎨",
+     "lesson": 2,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My favourite subject is Arts and crafts.",
+       "cz": "Můj oblíbený předmět je výtvarná výchova."
+      }
+     ]
+    },
+    {
+     "id": "s-maths",
+     "en": "Maths",
+     "cz": "matematika",
+     "pos": "noun",
+     "emoji": "➕",
+     "lesson": 2,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My favourite subject is Maths.",
+       "cz": "Můj oblíbený předmět je matematika."
+      }
+     ]
+    },
+    {
+     "id": "s-ict",
+     "en": "ICT",
+     "cz": "informatika",
+     "pos": "noun",
+     "emoji": "💻",
+     "lesson": 2,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My favourite subject is ICT.",
+       "cz": "Můj oblíbený předmět je informatika."
+      }
+     ]
+    },
+    {
+     "id": "s-science",
+     "en": "Science",
+     "cz": "věda, přírodověda",
+     "pos": "noun",
+     "emoji": "🔬",
+     "lesson": 2,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My favourite subject is Science.",
+       "cz": "Můj oblíbený předmět je věda."
+      }
+     ]
+    },
+    {
+     "id": "s-pe",
+     "en": "PE",
+     "cz": "tělocvik",
+     "pos": "noun",
+     "emoji": "🏃",
+     "lesson": 2,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My favourite subject is PE.",
+       "cz": "Můj oblíbený předmět je tělocvik."
+      }
+     ]
+    },
+    {
+     "id": "s-arrive-home",
+     "en": "arrive home",
+     "cz": "přijet domů",
+     "pos": "verb",
+     "emoji": "🏠",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "I arrive home at four.",
+       "cz": "Přijedu domů ve čtyři."
+      }
+     ]
+    },
+    {
+     "id": "s-inside",
+     "en": "inside",
+     "cz": "vevnitř",
+     "pos": "adv",
+     "emoji": "📦",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The snake is inside the box.",
+       "cz": "Had je uvnitř krabice."
+      }
+     ]
+    },
+    {
+     "id": "s-its-raining",
+     "en": "It's raining.",
+     "cz": "Prší.",
+     "pos": "chunk",
+     "emoji": "🌧️",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's raining today.",
+       "cz": "Dnes prší."
+      }
+     ]
+    },
+    {
+     "id": "s-its-stormy",
+     "en": "It's stormy.",
+     "cz": "Je bouřka.",
+     "pos": "chunk",
+     "emoji": "⛈️",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's stormy. Stay inside!",
+       "cz": "Je bouřka. Zůstaň uvnitř!"
+      }
+     ]
+    },
+    {
+     "id": "s-its-cloudy",
+     "en": "It's cloudy.",
+     "cz": "Je zataženo.",
+     "pos": "chunk",
+     "emoji": "☁️",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's cloudy today.",
+       "cz": "Dnes je zataženo."
+      }
+     ]
+    },
+    {
+     "id": "s-its-sunny",
+     "en": "It's sunny.",
+     "cz": "Je slunečno.",
+     "pos": "chunk",
+     "emoji": "☀️",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's sunny. Let's go outside!",
+       "cz": "Je slunečno. Pojďme ven!"
+      }
+     ]
+    },
+    {
+     "id": "s-wet",
+     "en": "wet",
+     "cz": "mokrý",
+     "pos": "adj",
+     "emoji": "💧",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My hair is wet.",
+       "cz": "Mám mokré vlasy."
+      }
+     ]
+    },
+    {
+     "id": "s-put",
+     "en": "put",
+     "cz": "položit, dát",
+     "pos": "verb",
+     "emoji": null,
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Put the pancake on the plate.",
+       "cz": "Dej palačinku na talíř."
+      }
+     ]
+    },
+    {
+     "id": "s-dirty",
+     "en": "dirty",
+     "cz": "špinavý",
+     "pos": "adj",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My hands are dirty.",
+       "cz": "Mám špinavé ruce."
+      }
+     ]
+    },
+    {
+     "id": "s-clean",
+     "en": "clean",
+     "cz": "čistý",
+     "pos": "adj",
+     "emoji": "✨",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "My hands are clean.",
+       "cz": "Mám čisté ruce."
+      }
+     ]
+    },
+    {
+     "id": "s-better",
+     "en": "better",
+     "cz": "lepší",
+     "pos": "adj",
+     "emoji": "👍",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "This path is better.",
+       "cz": "Tahle cesta je lepší."
+      }
+     ]
+    },
+    {
+     "id": "s-spanish",
+     "en": "Spanish",
+     "cz": "španělština",
+     "pos": "noun",
+     "emoji": "🇪🇸",
+     "lesson": 2,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "My favourite subject is Spanish.",
+       "cz": "Můj oblíbený předmět je španělština."
+      }
+     ]
+    },
+    {
+     "id": "s-school-subject",
+     "en": "school subject",
+     "cz": "školní předmět",
+     "pos": "noun",
+     "emoji": "📚",
+     "lesson": 2,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Maths is a school subject.",
+       "cz": "Matematika je školní předmět."
+      }
+     ]
+    },
+    {
+     "id": "s-the-alphabet",
+     "en": "the alphabet",
+     "cz": "abeceda",
+     "pos": "noun",
+     "emoji": "🔤",
+     "lesson": 3,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Say the alphabet.",
+       "cz": "Řekni abecedu."
+      }
+     ]
+    },
+    {
+     "id": "s-hot",
+     "en": "hot",
+     "cz": "horko",
+     "pos": "adjective",
+     "emoji": "🥵",
+     "lesson": 4,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "It's hot today.",
+       "cz": "Dnes je horko."
+      }
+     ]
+    }
+   ],
+   "phrases": [
+    {
+     "id": "s-ph-his-name",
+     "en": "What's his name? His name is Jake.",
+     "cz": "Jak se jmenuje (on)? Jmenuje se Jake.",
+     "pattern": "What's his name? His name is ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "s-ph-her-name",
+     "en": "What's her name? Her name is Molly.",
+     "cz": "Jak se jmenuje (ona)? Jmenuje se Molly.",
+     "pattern": "What's her name? Her name is ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "s-ph-favourite-subject",
+     "en": "What's your favourite subject? My favourite subject is English.",
+     "cz": "Jaký je tvůj oblíbený předmět? Můj oblíbený předmět je angličtina.",
+     "pattern": "What's your favourite subject? My favourite subject is ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "s-ph-how-spell",
+     "en": "How do you spell 'English'? E-N-G-L-I-S-H.",
+     "cz": "Jak se hláskuje 'English'? E-N-G-L-I-S-H.",
+     "pattern": "How do you spell ___?",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "s-ph-its-today",
+     "en": "It's cloudy today.",
+     "cz": "Dnes je zataženo.",
+     "pattern": "It's ___ today.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "s-ph-is-it-raining",
+     "en": "Is it raining? Yes, it is. / No, it isn't.",
+     "cz": "Prší? Ano, prší. / Ne, neprší.",
+     "pattern": "Is it ___? Yes, it is. / No, it isn't.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "s-ph-x1",
+     "en": "Listen and repeat.",
+     "cz": "Poslouchej a opakuj.",
+     "pattern": "Listen and ___.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "s-ph-x2",
+     "en": "Write your name.",
+     "cz": "Napiš své jméno.",
+     "pattern": "Write ___.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "s-ph-x3",
+     "en": "Sing the song.",
+     "cz": "Zazpívej písničku.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "s-ph-x4",
+     "en": "What's the weather like? It's sunny.",
+     "cz": "Jaké je počasí? Je slunečno.",
+     "pattern": "It's ___.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "s-ph-x5",
+     "en": "Put on your coat. It's raining.",
+     "cz": "Obleč si kabát. Prší.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "s-ph-x6",
+     "en": "My shoes are wet and dirty.",
+     "cz": "Moje boty jsou mokré a špinavé.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    }
+   ],
+   "schoolUnit": "Intro"
+  },
+  {
+   "id": "u1-move-your-body",
+   "code": "1",
+   "title": "Move your body",
+   "pages": "8-17",
+   "order": 2,
+   "words": [
+    {
+     "id": "u1-football",
+     "en": "football",
+     "cz": "fotbal",
+     "pos": "noun",
+     "emoji": "⚽",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "I play football every day.",
+       "cz": "Hraju fotbal každý den."
+      }
+     ]
+    },
+    {
+     "id": "u1-basketball",
+     "en": "basketball",
+     "cz": "košíková, basketbal",
+     "pos": "noun",
+     "emoji": "🏀",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "I play basketball every day.",
+       "cz": "Hraju košíkovou každý den."
+      }
+     ]
+    },
+    {
+     "id": "u1-baseball",
+     "en": "baseball",
+     "cz": "baseball",
+     "pos": "noun",
+     "emoji": "⚾",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "I play baseball every day.",
+       "cz": "Hraju baseball každý den."
+      }
+     ]
+    },
+    {
+     "id": "u1-go-skateboarding",
+     "en": "go skateboarding",
+     "cz": "jít na skateboard",
+     "pos": "verb",
+     "emoji": "🛹",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "I go skateboarding on Saturday.",
+       "cz": "V sobotu chodím na skateboard."
+      }
+     ]
+    },
+    {
+     "id": "u1-go-cycling",
+     "en": "go cycling",
+     "cz": "jet na kole",
+     "pos": "verb",
+     "emoji": "🚴",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "I go cycling on Saturday.",
+       "cz": "V sobotu jezdím na kole."
+      }
+     ]
+    },
+    {
+     "id": "u1-volleyball",
+     "en": "volleyball",
+     "cz": "volejbal",
+     "pos": "noun",
+     "emoji": "🏐",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "I play volleyball every day.",
+       "cz": "Hraju volejbal každý den."
+      }
+     ]
+    },
+    {
+     "id": "u1-go-swimming",
+     "en": "go swimming",
+     "cz": "jít plavat",
+     "pos": "verb",
+     "emoji": "🏊",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "I go swimming on Saturday.",
+       "cz": "V sobotu chodím plavat."
+      }
+     ]
+    },
+    {
+     "id": "u1-hockey",
+     "en": "hockey",
+     "cz": "hokej",
+     "pos": "noun",
+     "emoji": "🏑",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "I play hockey every day.",
+       "cz": "Hraju hokej každý den."
+      }
+     ]
+    },
+    {
+     "id": "u1-go-rollerblading",
+     "en": "go rollerblading",
+     "cz": "jít na kolečkové brusle",
+     "pos": "verb",
+     "emoji": "🛼",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "I go rollerblading on Saturday.",
+       "cz": "V sobotu chodím na kolečkové brusle."
+      }
+     ]
+    },
+    {
+     "id": "u1-tennis",
+     "en": "tennis",
+     "cz": "tenis",
+     "pos": "noun",
+     "emoji": "🎾",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "I play tennis every day.",
+       "cz": "Hraju tenis každý den."
+      }
+     ]
+    },
+    {
+     "id": "u1-mess",
+     "en": "mess",
+     "cz": "nepořádek",
+     "pos": "noun",
+     "emoji": "🧦",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "What a mess!",
+       "cz": "To je nepořádek!"
+      }
+     ]
+    },
+    {
+     "id": "u1-every-day",
+     "en": "every day",
+     "cz": "každý den",
+     "pos": "chunk",
+     "emoji": "📅",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "I play football every day.",
+       "cz": "Hraju fotbal každý den."
+      }
+     ]
+    },
+    {
+     "id": "u1-hit",
+     "en": "hit",
+     "cz": "uhodit, trefit",
+     "pos": "verb",
+     "emoji": "🏏",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Hit the ball!",
+       "cz": "Odpal míč!"
+      }
+     ]
+    },
+    {
+     "id": "u1-kick",
+     "en": "kick",
+     "cz": "kopnout",
+     "pos": "verb",
+     "emoji": "🦵",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Kick the ball!",
+       "cz": "Kopni do míče!"
+      }
+     ]
+    },
+    {
+     "id": "u1-watch-out",
+     "en": "watch out",
+     "cz": "dávej pozor",
+     "pos": "chunk",
+     "emoji": "⚠️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Watch out!",
+       "cz": "Pozor!"
+      }
+     ]
+    },
+    {
+     "id": "u1-i-cant",
+     "en": "I can't",
+     "cz": "nemohu",
+     "pos": "chunk",
+     "emoji": "🙅",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "I can't swim.",
+       "cz": "Neumím plavat."
+      }
+     ]
+    },
+    {
+     "id": "u1-rollerblades",
+     "en": "rollerblades",
+     "cz": "kolečkové brusle",
+     "pos": "noun",
+     "emoji": "🛼",
+     "core": true,
+     "source": "school",
+     "plural": true,
+     "examples": [
+      {
+       "en": "I've got new rollerblades.",
+       "cz": "Mám nové kolečkové brusle."
+      }
+     ]
+    },
+    {
+     "id": "u1-football-boots",
+     "en": "football boots",
+     "cz": "kopačky",
+     "pos": "noun",
+     "emoji": "👟",
+     "core": true,
+     "source": "school",
+     "plural": true,
+     "examples": [
+      {
+       "en": "My football boots are dirty.",
+       "cz": "Moje kopačky jsou špinavé."
+      }
+     ]
+    },
+    {
+     "id": "u1-tennis-racket",
+     "en": "tennis racket",
+     "cz": "tenisová raketa",
+     "pos": "noun",
+     "emoji": "🎾",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "I've got a tennis racket.",
+       "cz": "Mám tenisovou raketu."
+      }
+     ]
+    },
+    {
+     "id": "u1-organise",
+     "en": "organise",
+     "cz": "zorganizovat",
+     "pos": "verb",
+     "emoji": "📋",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Let's organise a race!",
+       "cz": "Uspořádejme závod!"
+      }
+     ]
+    },
+    {
+     "id": "u1-baseball-bat",
+     "en": "baseball bat",
+     "cz": "baseballová pálka",
+     "pos": "noun",
+     "emoji": "🏏",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Hit the ball with the baseball bat.",
+       "cz": "Odpal míč baseballovou pálkou."
+      }
+     ]
+    },
+    {
+     "id": "u1-you-can",
+     "en": "You can",
+     "cz": "ty můžeš",
+     "pos": "chunk",
+     "emoji": "👍",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "You can do it!",
+       "cz": "Zvládneš to!"
+      }
+     ]
+    },
+    {
+     "id": "u1-race",
+     "en": "race",
+     "cz": "závod",
+     "pos": "noun",
+     "emoji": "🏁",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Let's have a race!",
+       "cz": "Dáme si závod!"
+      }
+     ]
+    },
+    {
+     "id": "u1-fast",
+     "en": "fast",
+     "cz": "rychle, rychlý",
+     "pos": "adj",
+     "emoji": "💨",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Run fast!",
+       "cz": "Běž rychle!"
+      }
+     ]
+    },
+    {
+     "id": "u1-walk",
+     "en": "walk",
+     "cz": "jít",
+     "pos": "verb",
+     "emoji": "🚶",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Walk, don't run!",
+       "cz": "Jdi, neběhej!"
+      }
+     ]
+    },
+    {
+     "id": "u1-contain",
+     "en": "contain",
+     "cz": "obsahovat",
+     "pos": "verb",
+     "emoji": null,
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The box contains a ball.",
+       "cz": "Krabice obsahuje míč."
+      }
+     ]
+    },
+    {
+     "id": "u1-hold",
+     "en": "hold",
+     "cz": "držet",
+     "pos": "verb",
+     "emoji": "✊",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Hold the bat!",
+       "cz": "Drž pálku!"
+      }
+     ]
+    },
+    {
+     "id": "u1-primary-school",
+     "en": "primary school",
+     "cz": "základní škola",
+     "pos": "noun",
+     "emoji": "🏫",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "I go to primary school.",
+       "cz": "Chodím na základní školu."
+      }
+     ]
+    },
+    {
+     "id": "u1-join-in",
+     "en": "join in",
+     "cz": "zapojit se",
+     "pos": "verb",
+     "emoji": "🙋",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Join in!",
+       "cz": "Přidej se!"
+      }
+     ]
+    },
+    {
+     "id": "u1-get-in",
+     "en": "get in",
+     "cz": "vlézt dovnitř",
+     "pos": "verb",
+     "emoji": "🚪",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Get in the car!",
+       "cz": "Nastup do auta!"
+      }
+     ]
+    },
+    {
+     "id": "u1-jump",
+     "en": "jump",
+     "cz": "skákat",
+     "pos": "verb",
+     "emoji": "🤸",
+     "lesson": 4,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Jump!",
+       "cz": "Skoč!"
+      }
+     ]
+    },
+    {
+     "id": "u1-bounce",
+     "en": "bounce",
+     "cz": "driblovat, odrážet (míč)",
+     "pos": "verb",
+     "emoji": null,
+     "lesson": 4,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Bounce the ball.",
+       "cz": "Odraz míč o zem."
+      }
+     ]
+    },
+    {
+     "id": "u1-throw",
+     "en": "throw",
+     "cz": "hodit",
+     "pos": "verb",
+     "emoji": "🤾",
+     "lesson": 4,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Throw the ball!",
+       "cz": "Hoď míč!"
+      }
+     ]
+    },
+    {
+     "id": "u1-catch",
+     "en": "catch",
+     "cz": "chytit",
+     "pos": "verb",
+     "emoji": "🧤",
+     "lesson": 4,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Catch the ball!",
+       "cz": "Chyť míč!"
+      }
+     ]
+    },
+    {
+     "id": "u1-monday",
+     "en": "Monday",
+     "cz": "pondělí",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I play tennis on Monday.",
+       "cz": "Hraju tenis v pondělí."
+      }
+     ]
+    },
+    {
+     "id": "u1-tuesday",
+     "en": "Tuesday",
+     "cz": "úterý",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I play tennis on Tuesday.",
+       "cz": "Hraju tenis v úterý."
+      }
+     ]
+    },
+    {
+     "id": "u1-wednesday",
+     "en": "Wednesday",
+     "cz": "středa",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I play tennis on Wednesday.",
+       "cz": "Hraju tenis ve středu."
+      }
+     ]
+    },
+    {
+     "id": "u1-thursday",
+     "en": "Thursday",
+     "cz": "čtvrtek",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I play tennis on Thursday.",
+       "cz": "Hraju tenis ve čtvrtek."
+      }
+     ]
+    },
+    {
+     "id": "u1-friday",
+     "en": "Friday",
+     "cz": "pátek",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I play tennis on Friday.",
+       "cz": "Hraju tenis v pátek."
+      }
+     ]
+    },
+    {
+     "id": "u1-saturday",
+     "en": "Saturday",
+     "cz": "sobota",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I play tennis on Saturday.",
+       "cz": "Hraju tenis v sobotu."
+      }
+     ]
+    },
+    {
+     "id": "u1-sunday",
+     "en": "Sunday",
+     "cz": "neděle",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I play tennis on Sunday.",
+       "cz": "Hraju tenis v neděli."
+      }
+     ]
+    }
+   ],
+   "phrases": [
+    {
+     "id": "u1-ph-i-play",
+     "en": "I play tennis.",
+     "cz": "Hraju tenis.",
+     "pattern": "I play ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u1-ph-i-go",
+     "en": "I go rollerblading.",
+     "cz": "Jezdím na kolečkových bruslích.",
+     "pattern": "I go ___ing.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u1-ph-do-you-play",
+     "en": "Do you play tennis? Yes, I do. / No, I don't.",
+     "cz": "Hraješ tenis? Ano, hraju. / Ne, nehraju.",
+     "pattern": "Do you play ___? Yes, I do. / No, I don't.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u1-ph-do-you-go",
+     "en": "Do you go swimming? Yes, I do.",
+     "cz": "Chodíš plavat? Ano, chodím.",
+     "pattern": "Do you go ___ing?",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u1-ph-plays-on-monday",
+     "en": "Molly plays tennis on Monday.",
+     "cz": "Molly hraje tenis v pondělí.",
+     "pattern": "___ plays ___ on ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u1-ph-he-throws-she-catches",
+     "en": "He throws the ball. She catches the ball.",
+     "cz": "On hází míč. Ona chytá míč.",
+     "pattern": "He/She ___s the ball.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u1-ph-any-sports",
+     "en": "Do you play any sports?",
+     "cz": "Děláš nějaké sporty?",
+     "pattern": "Do you play any ___?",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u1-ph-x1",
+     "en": "I play football every day.",
+     "cz": "Hraju fotbal každý den.",
+     "pattern": "I play ___ every day.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u1-ph-x2",
+     "en": "I go swimming on Saturday.",
+     "cz": "V sobotu chodím plavat.",
+     "pattern": "I go ___ on ___.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u1-ph-x3",
+     "en": "Watch out! Kick the ball!",
+     "cz": "Pozor! Kopni do míče!",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u1-ph-x4",
+     "en": "You can hit the ball with a baseball bat.",
+     "cz": "Můžeš odpálit míč baseballovou pálkou.",
+     "pattern": "You can ___.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u1-ph-x5",
+     "en": "I can't play tennis without a racket.",
+     "cz": "Nemůžu hrát tenis bez rakety.",
+     "pattern": "I can't ___.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u1-ph-x6",
+     "en": "What a mess! Let's organise the sports room.",
+     "cz": "To je nepořádek! Pojďme uklidit tělocvičnu.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u1-ph-x7",
+     "en": "Join in! Get in the team!",
+     "cz": "Přidej se! Vlez do týmu!",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u1-ph-x8",
+     "en": "It's a race. Run fast!",
+     "cz": "Je to závod. Běž rychle!",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    }
+   ],
+   "schoolUnit": "Unit 1"
+  },
+  {
+   "id": "u2-lets-go-shopping",
+   "code": "2",
+   "title": "Let's go shopping!",
+   "pages": "18-27",
+   "order": 3,
+   "words": [
+    {
+     "id": "u2-bread",
+     "en": "bread",
+     "cz": "chleba",
+     "pos": "noun",
+     "emoji": "🍞",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Can I have some bread, please?",
+       "cz": "Můžu dostat chlebu, prosím?"
+      }
+     ]
+    },
+    {
+     "id": "u2-pineapple",
+     "en": "pineapple",
+     "cz": "ananas",
+     "pos": "noun",
+     "emoji": "🍍",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Can I have a pineapple, please?",
+       "cz": "Můžu dostat ananas, prosím?"
+      }
+     ]
+    },
+    {
+     "id": "u2-potatoes",
+     "en": "potatoes",
+     "cz": "brambory",
+     "pos": "noun",
+     "emoji": "🥔",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "bookForm": "potato",
+     "examples": [
+      {
+       "en": "Can I have some potatoes, please?",
+       "cz": "Můžu dostat brambory, prosím?"
+      }
+     ]
+    },
+    {
+     "id": "u2-tomatoes",
+     "en": "tomatoes",
+     "cz": "rajčata",
+     "pos": "noun",
+     "emoji": "🍅",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "bookForm": "tomato",
+     "examples": [
+      {
+       "en": "Can I have some tomatoes, please?",
+       "cz": "Můžu dostat rajčata, prosím?"
+      }
+     ]
+    },
+    {
+     "id": "u2-green-beans",
+     "en": "green beans",
+     "cz": "zelené fazolky",
+     "pos": "noun",
+     "emoji": "🫛",
+     "lesson": 1,
+     "plural": true,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Can I have some green beans, please?",
+       "cz": "Můžu dostat zelené fazolky, prosím?"
+      }
+     ]
+    },
+    {
+     "id": "u2-yoghurt",
+     "en": "yoghurt",
+     "cz": "jogurt",
+     "pos": "noun",
+     "emoji": "🥛",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Can I have some yoghurt, please?",
+       "cz": "Můžu dostat jogurt, prosím?"
+      }
+     ]
+    },
+    {
+     "id": "u2-sweets",
+     "en": "sweets",
+     "cz": "sladkosti",
+     "pos": "noun",
+     "emoji": "🍬",
+     "lesson": 1,
+     "plural": true,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Can I have some sweets, please?",
+       "cz": "Můžu dostat sladkosti, prosím?"
+      }
+     ]
+    },
+    {
+     "id": "u2-can-i-have",
+     "en": "Can I have?",
+     "cz": "Mohu dostat?",
+     "pos": "chunk",
+     "emoji": "🙏",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Can I have an apple, please?",
+       "cz": "Můžu dostat jablko, prosím?"
+      }
+     ]
+    },
+    {
+     "id": "u2-twenty",
+     "en": "twenty",
+     "cz": "dvacet",
+     "pos": "num",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "How much is it? It's twenty cents.",
+       "cz": "Kolik to stojí? Dvacet centů."
+      }
+     ]
+    },
+    {
+     "id": "u2-thirty",
+     "en": "thirty",
+     "cz": "třicet",
+     "pos": "num",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "How much is it? It's thirty cents.",
+       "cz": "Kolik to stojí? Třicet centů."
+      }
+     ]
+    },
+    {
+     "id": "u2-forty",
+     "en": "forty",
+     "cz": "čtyřicet",
+     "pos": "num",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "How much is it? It's forty cents.",
+       "cz": "Kolik to stojí? Čtyřicet centů."
+      }
+     ]
+    },
+    {
+     "id": "u2-fifty",
+     "en": "fifty",
+     "cz": "padesát",
+     "pos": "num",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "How much is it? It's fifty cents.",
+       "cz": "Kolik to stojí? Padesát centů."
+      }
+     ]
+    },
+    {
+     "id": "u2-ill-take-it",
+     "en": "I'll take it.",
+     "cz": "Vezmu si to.",
+     "pos": "chunk",
+     "emoji": "🛒",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "How much is it? Fifty cents. I'll take it.",
+       "cz": "Kolik to stojí? Padesát centů. Vezmu si to."
+      }
+     ]
+    },
+    {
+     "id": "u2-queen",
+     "en": "Queen",
+     "cz": "královna",
+     "pos": "noun",
+     "emoji": "👑",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The Queen likes pancakes.",
+       "cz": "Královna má ráda palačinky."
+      }
+     ]
+    },
+    {
+     "id": "u2-how-much-are-these",
+     "en": "How much are these?",
+     "cz": "Kolik stojí tyto?",
+     "pos": "chunk",
+     "emoji": "💰",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "How much are these tomatoes? They're forty cents.",
+       "cz": "Kolik stojí tahle rajčata? Čtyřicet centů."
+      }
+     ]
+    },
+    {
+     "id": "u2-pancake",
+     "en": "pancake",
+     "cz": "palačinka",
+     "pos": "noun",
+     "emoji": "🥞",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Can I have a pancake, please?",
+       "cz": "Můžu dostat palačinku, prosím?"
+      }
+     ]
+    },
+    {
+     "id": "u2-flour",
+     "en": "flour",
+     "cz": "mouka",
+     "pos": "noun",
+     "emoji": "🌾",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "We need some flour.",
+       "cz": "Potřebujeme mouku."
+      }
+     ]
+    },
+    {
+     "id": "u2-bowl",
+     "en": "bowl",
+     "cz": "mísa",
+     "pos": "noun",
+     "emoji": "🥣",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Put the flour in the bowl.",
+       "cz": "Dej mouku do mísy."
+      }
+     ]
+    },
+    {
+     "id": "u2-mix",
+     "en": "mix",
+     "cz": "zamíchat",
+     "pos": "verb",
+     "emoji": "🥄",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Mix the eggs and the flour.",
+       "cz": "Zamíchej vejce a mouku."
+      }
+     ]
+    },
+    {
+     "id": "u2-put",
+     "en": "put",
+     "cz": "dát, položit",
+     "pos": "verb",
+     "emoji": null,
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Put the pancake on the plate.",
+       "cz": "Dej palačinku na talíř."
+      }
+     ]
+    },
+    {
+     "id": "u2-sugar",
+     "en": "sugar",
+     "cz": "cukr",
+     "pos": "noun",
+     "emoji": "🧂",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Can I have some sugar?",
+       "cz": "Můžu dostat cukr?"
+      }
+     ]
+    },
+    {
+     "id": "u2-at-the-same-time",
+     "en": "at the same time",
+     "cz": "ve stejnou chvíli",
+     "pos": "chunk",
+     "emoji": "⏱️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Add the sugar and mix at the same time.",
+       "cz": "Přidej cukr a zároveň míchej."
+      }
+     ]
+    },
+    {
+     "id": "u2-slice",
+     "en": "slice",
+     "cz": "krajíc",
+     "pos": "noun",
+     "emoji": "🍞",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "A slice of bread, please.",
+       "cz": "Krajíc chleba, prosím."
+      }
+     ]
+    },
+    {
+     "id": "u2-piece",
+     "en": "piece",
+     "cz": "kus",
+     "pos": "noun",
+     "emoji": "🍰",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "A piece of cake, please.",
+       "cz": "Kousek dortu, prosím."
+      }
+     ]
+    },
+    {
+     "id": "u2-add",
+     "en": "add",
+     "cz": "přidat",
+     "pos": "verb",
+     "emoji": "➕",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Add some sugar.",
+       "cz": "Přidej trochu cukru."
+      }
+     ]
+    },
+    {
+     "id": "u2-finally",
+     "en": "finally",
+     "cz": "nakonec",
+     "pos": "adv",
+     "emoji": "🏁",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Finally, we eat!",
+       "cz": "Nakonec jíme!"
+      }
+     ]
+    },
+    {
+     "id": "u2-peach",
+     "en": "peach",
+     "cz": "broskev",
+     "pos": "noun",
+     "emoji": "🍑",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Can I have a peach, please?",
+       "cz": "Můžu dostat broskev, prosím?"
+      }
+     ]
+    },
+    {
+     "id": "u2-carrots",
+     "en": "carrots",
+     "cz": "mrkve",
+     "pos": "noun",
+     "emoji": "🥕",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "bookForm": "carrot",
+     "examples": [
+      {
+       "en": "How much are these carrots?",
+       "cz": "Kolik stojí tyhle mrkve?"
+      }
+     ]
+    },
+    {
+     "id": "u2-lemon",
+     "en": "lemon",
+     "cz": "citron",
+     "pos": "noun",
+     "emoji": "🍋",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Can I have a lemon, please?",
+       "cz": "Můžu dostat citron, prosím?"
+      }
+     ]
+    },
+    {
+     "id": "u2-apple",
+     "en": "apple",
+     "cz": "jablko",
+     "pos": "noun",
+     "emoji": "🍎",
+     "lesson": 2,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Can I have an apple, please?",
+       "cz": "Můžu dostat jablko, prosím?"
+      }
+     ]
+    },
+    {
+     "id": "u2-ten",
+     "en": "ten",
+     "cz": "deset (10)",
+     "pos": "number",
+     "emoji": "🔟",
+     "lesson": 4,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "How much is it? It's ten cents.",
+       "cz": "Kolik to stojí? Deset centů."
+      }
+     ]
+    },
+    {
+     "id": "u2-cents",
+     "en": "cents",
+     "cz": "centy (mn. č.)",
+     "pos": "noun",
+     "emoji": "🪙",
+     "lesson": 4,
+     "plural": true,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "It's twenty cents.",
+       "cz": "Stojí to dvacet centů."
+      }
+     ]
+    }
+   ],
+   "phrases": [
+    {
+     "id": "u2-ph-a-an-some",
+     "en": "a peach / an apple / some bread / some carrots",
+     "cz": "broskev / jablko / nějaký chleba / nějaké mrkve",
+     "pattern": "a ___ / an ___ / some ___",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u2-ph-can-i-have-a",
+     "en": "Can I have an apple and a peach, please?",
+     "cz": "Můžu dostat jablko a broskev, prosím?",
+     "pattern": "Can I have a/an ___, please?",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u2-ph-can-i-have-some",
+     "en": "Can I have some bread, please?",
+     "cz": "Můžu dostat chleba, prosím?",
+     "pattern": "Can I have some ___, please?",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u2-ph-can-i-help-you",
+     "en": "Hello. Can I help you? – Here you are. – Thank you.",
+     "cz": "Dobrý den. Můžu vám pomoct? – Tady máte. – Děkuju.",
+     "pattern": "Can I help you? / Here you are.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u2-ph-how-much-is",
+     "en": "How much is this lemon? It's ten cents.",
+     "cz": "Kolik stojí tenhle citron? Deset centů.",
+     "pattern": "How much is this ___? It's ___ cents.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u2-ph-how-much-are",
+     "en": "How much are these carrots? They're thirty cents.",
+     "cz": "Kolik stojí tyhle mrkve? Třicet centů.",
+     "pattern": "How much are these ___? They're ___ cents.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u2-ph-i-love-delicious",
+     "en": "I love carrots. They're delicious!",
+     "cz": "Miluju mrkev. Je vynikající!",
+     "pattern": "I love ___. They're delicious!",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u2-ph-x1",
+     "en": "Can I have some bread, please? Here you are.",
+     "cz": "Můžu dostat chleba, prosím? Tady máš.",
+     "pattern": "Can I have some ___, please?",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u2-ph-x2",
+     "en": "How much is it? It's fifty cents.",
+     "cz": "Kolik to stojí? Padesát centů.",
+     "pattern": "How much is it? It's ___ cents.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u2-ph-x3",
+     "en": "I'd like a piece of cake, please.",
+     "cz": "Chtěl bych kousek dortu, prosím.",
+     "pattern": "a piece of ___",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u2-ph-x4",
+     "en": "We need flour, sugar and eggs.",
+     "cz": "Potřebujeme mouku, cukr a vejce.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u2-ph-x5",
+     "en": "Finally, we eat the cake!",
+     "cz": "Nakonec sníme dort!",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    }
+   ],
+   "schoolUnit": "Unit 2"
+  },
+  {
+   "id": "u3-at-the-zoo",
+   "code": "3",
+   "title": "At the zoo",
+   "pages": "28-37",
+   "order": 4,
+   "words": [
+    {
+     "id": "u3-wild",
+     "en": "wild",
+     "cz": "divoké",
+     "pos": "adj",
+     "emoji": "🌿",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Lions are wild animals.",
+       "cz": "Lvi jsou divoká zvířata."
+      }
+     ]
+    },
+    {
+     "id": "u3-dangerous",
+     "en": "dangerous",
+     "cz": "nebezpečný",
+     "pos": "adj",
+     "emoji": "⚠️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Crocodiles are dangerous.",
+       "cz": "Krokodýli jsou nebezpeční."
+      }
+     ]
+    },
+    {
+     "id": "u3-hair",
+     "en": "hair",
+     "cz": "chlupy, srst",
+     "pos": "noun",
+     "emoji": null,
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "It's got brown hair.",
+       "cz": "Má hnědou srst."
+      }
+     ]
+    },
+    {
+     "id": "u3-crocodile",
+     "en": "crocodile",
+     "cz": "krokodýl",
+     "pos": "noun",
+     "emoji": "🐊",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's a crocodile. Has it got a tail?",
+       "cz": "Je to krokodýl. Má ocas?"
+      }
+     ]
+    },
+    {
+     "id": "u3-lion",
+     "en": "lion",
+     "cz": "lev",
+     "pos": "noun",
+     "emoji": "🦁",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's a lion. Has it got a tail?",
+       "cz": "Je to lev. Má ocas?"
+      }
+     ]
+    },
+    {
+     "id": "u3-snake",
+     "en": "snake",
+     "cz": "had",
+     "pos": "noun",
+     "emoji": "🐍",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's a snake. Has it got a tail?",
+       "cz": "Je to had. Má ocas?"
+      }
+     ]
+    },
+    {
+     "id": "u3-monkey",
+     "en": "monkey",
+     "cz": "opice",
+     "pos": "noun",
+     "emoji": "🐒",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's a monkey. Has it got a tail?",
+       "cz": "Je to opice. Má ocas?"
+      }
+     ]
+    },
+    {
+     "id": "u3-penguin",
+     "en": "penguin",
+     "cz": "tučňák",
+     "pos": "noun",
+     "emoji": "🐧",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's a penguin. Has it got a tail?",
+       "cz": "Je to tučňák. Má ocas?"
+      }
+     ]
+    },
+    {
+     "id": "u3-elephant",
+     "en": "elephant",
+     "cz": "slon",
+     "pos": "noun",
+     "emoji": "🐘",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's an elephant. Has it got a tail?",
+       "cz": "Je to slon. Má ocas?"
+      }
+     ]
+    },
+    {
+     "id": "u3-lizard",
+     "en": "lizard",
+     "cz": "ještěr",
+     "pos": "noun",
+     "emoji": "🦎",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's a lizard. Has it got a tail?",
+       "cz": "Je to ještěr. Má ocas?"
+      }
+     ]
+    },
+    {
+     "id": "u3-giraffe",
+     "en": "giraffe",
+     "cz": "žirafa",
+     "pos": "noun",
+     "emoji": "🦒",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's a giraffe. Has it got a tail?",
+       "cz": "Je to žirafa. Má ocas?"
+      }
+     ]
+    },
+    {
+     "id": "u3-hippo",
+     "en": "hippo",
+     "cz": "hroch",
+     "pos": "noun",
+     "emoji": "🦛",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's a hippo. Has it got a tail?",
+       "cz": "Je to hroch. Má ocas?"
+      }
+     ]
+    },
+    {
+     "id": "u3-tiger",
+     "en": "tiger",
+     "cz": "tygr",
+     "pos": "noun",
+     "emoji": "🐯",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's a tiger. Has it got a tail?",
+       "cz": "Je to tygr. Má ocas?"
+      }
+     ]
+    },
+    {
+     "id": "u3-guess",
+     "en": "guess",
+     "cz": "uhodnout",
+     "pos": "verb",
+     "emoji": "🤔",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Guess the animal!",
+       "cz": "Uhodni zvíře!"
+      }
+     ]
+    },
+    {
+     "id": "u3-has-it-got",
+     "en": "Has it got?",
+     "cz": "Má to?",
+     "pos": "chunk",
+     "emoji": "❓",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Has it got a tail? Yes, it has.",
+       "cz": "Má ocas? Ano, má."
+      }
+     ]
+    },
+    {
+     "id": "u3-have-they-got",
+     "en": "Have they got?",
+     "cz": "Mají (oni)?",
+     "pos": "chunk",
+     "emoji": "❓",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Have they got wings? No, they haven't.",
+       "cz": "Mají křídla? Ne, nemají."
+      }
+     ]
+    },
+    {
+     "id": "u3-hasnt-got",
+     "en": "Hasn't got",
+     "cz": "nemá",
+     "pos": "chunk",
+     "emoji": "🚫",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "It hasn't got a beak.",
+       "cz": "Nemá zobák."
+      }
+     ]
+    },
+    {
+     "id": "u3-havent-got",
+     "en": "Haven't got",
+     "cz": "nemají",
+     "pos": "chunk",
+     "emoji": "🚫",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "They haven't got legs.",
+       "cz": "Nemají nohy."
+      }
+     ]
+    },
+    {
+     "id": "u3-inside",
+     "en": "inside",
+     "cz": "uvnitř",
+     "pos": "adv",
+     "emoji": "📦",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The snake is inside the box.",
+       "cz": "Had je uvnitř krabice."
+      }
+     ]
+    },
+    {
+     "id": "u3-mysterious",
+     "en": "mysterious",
+     "cz": "záhadný",
+     "pos": "adj",
+     "emoji": "🕵️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "It's a mysterious animal.",
+       "cz": "Je to záhadné zvíře."
+      }
+     ]
+    },
+    {
+     "id": "u3-appear",
+     "en": "appear",
+     "cz": "objevit se",
+     "pos": "verb",
+     "emoji": "✨",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "A fox appears in the garden.",
+       "cz": "Na zahradě se objeví liška."
+      }
+     ]
+    },
+    {
+     "id": "u3-find",
+     "en": "find",
+     "cz": "najít",
+     "pos": "verb",
+     "emoji": "🔍",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Find the hedgehog!",
+       "cz": "Najdi ježka!"
+      }
+     ]
+    },
+    {
+     "id": "u3-feathers",
+     "en": "feathers",
+     "cz": "peří",
+     "pos": "noun",
+     "emoji": "🪶",
+     "lesson": 3,
+     "plural": true,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Birds have got feathers.",
+       "cz": "Ptáci mají peří."
+      }
+     ]
+    },
+    {
+     "id": "u3-lost",
+     "en": "lost",
+     "cz": "ztracený",
+     "pos": "adj",
+     "emoji": "❓",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The squirrel is lost.",
+       "cz": "Veverka se ztratila."
+      }
+     ]
+    },
+    {
+     "id": "u3-body",
+     "en": "body",
+     "cz": "tělo",
+     "pos": "noun",
+     "emoji": "🧍",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's got a long body.",
+       "cz": "Má dlouhé tělo."
+      }
+     ]
+    },
+    {
+     "id": "u3-wings",
+     "en": "wings",
+     "cz": "křídla",
+     "pos": "noun",
+     "emoji": "🪽",
+     "lesson": 4,
+     "plural": true,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Penguins have got wings.",
+       "cz": "Tučňáci mají křídla."
+      }
+     ]
+    },
+    {
+     "id": "u3-beak",
+     "en": "beak",
+     "cz": "zobák",
+     "pos": "noun",
+     "emoji": "🐦",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's got a big beak.",
+       "cz": "Má velký zobák."
+      }
+     ]
+    },
+    {
+     "id": "u3-teeth",
+     "en": "teeth",
+     "cz": "zuby",
+     "pos": "noun",
+     "emoji": "🦷",
+     "lesson": 4,
+     "plural": true,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Crocodiles have got big teeth.",
+       "cz": "Krokodýli mají velké zuby."
+      }
+     ]
+    },
+    {
+     "id": "u3-face",
+     "en": "face",
+     "cz": "tvář",
+     "pos": "noun",
+     "emoji": "🙂",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Paint your face!",
+       "cz": "Namaluj si obličej!"
+      }
+     ]
+    },
+    {
+     "id": "u3-tail",
+     "en": "tail",
+     "cz": "ocas",
+     "pos": "noun",
+     "emoji": "🐒",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Monkeys have got long tails.",
+       "cz": "Opice mají dlouhé ocasy."
+      }
+     ]
+    },
+    {
+     "id": "u3-seeds",
+     "en": "seeds",
+     "cz": "semínka",
+     "pos": "noun",
+     "emoji": "🌱",
+     "core": true,
+     "source": "school",
+     "plural": true,
+     "examples": [
+      {
+       "en": "Birds eat seeds.",
+       "cz": "Ptáci jedí semínka."
+      }
+     ]
+    },
+    {
+     "id": "u3-nuts",
+     "en": "nuts",
+     "cz": "oříšky",
+     "pos": "noun",
+     "emoji": "🥜",
+     "core": true,
+     "source": "school",
+     "plural": true,
+     "examples": [
+      {
+       "en": "Squirrels eat nuts.",
+       "cz": "Veverky jedí oříšky."
+      }
+     ]
+    },
+    {
+     "id": "u3-hedgehog",
+     "en": "hedgehog",
+     "cz": "ježek",
+     "pos": "noun",
+     "emoji": "🦔",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "It's a hedgehog. Has it got a tail?",
+       "cz": "Je to ježek. Má ocas?"
+      }
+     ]
+    },
+    {
+     "id": "u3-dish",
+     "en": "dish",
+     "cz": "miska",
+     "pos": "noun",
+     "emoji": "🥣",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Put water in the dish.",
+       "cz": "Nalij vodu do misky."
+      }
+     ]
+    },
+    {
+     "id": "u3-fox",
+     "en": "fox",
+     "cz": "liška",
+     "pos": "noun",
+     "emoji": "🦊",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "It's a fox. Has it got a tail?",
+       "cz": "Je to liška. Má ocas?"
+      }
+     ]
+    },
+    {
+     "id": "u3-squirrel",
+     "en": "squirrel",
+     "cz": "veverka",
+     "pos": "noun",
+     "emoji": "🐿️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "It's a squirrel. Has it got a tail?",
+       "cz": "Je to veverka. Má ocas?"
+      }
+     ]
+    },
+    {
+     "id": "u3-rainforest",
+     "en": "rainforest",
+     "cz": "deštný prales",
+     "pos": "noun",
+     "emoji": "🌴",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Monkeys live in the rainforest.",
+       "cz": "Opice žijí v deštném pralese."
+      }
+     ]
+    },
+    {
+     "id": "u3-leaves",
+     "en": "leaves",
+     "cz": "listy",
+     "pos": "noun",
+     "emoji": "🍃",
+     "core": true,
+     "source": "school",
+     "plural": true,
+     "examples": [
+      {
+       "en": "Giraffes eat leaves.",
+       "cz": "Žirafy jedí listy."
+      }
+     ]
+    },
+    {
+     "id": "u3-ears",
+     "en": "ears",
+     "cz": "uši (mn. č.)",
+     "pos": "noun",
+     "emoji": "👂",
+     "lesson": 2,
+     "plural": true,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "It's got big ears.",
+       "cz": "Má velké uši."
+      }
+     ]
+    },
+    {
+     "id": "u3-legs",
+     "en": "legs",
+     "cz": "nohy (mn. č.)",
+     "pos": "noun",
+     "emoji": "🦵",
+     "lesson": 2,
+     "plural": true,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "It's got four legs.",
+       "cz": "Má čtyři nohy."
+      }
+     ]
+    },
+    {
+     "id": "u3-neck",
+     "en": "neck",
+     "cz": "krk",
+     "pos": "noun",
+     "emoji": null,
+     "lesson": 3,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "A giraffe has got a long neck.",
+       "cz": "Žirafa má dlouhý krk."
+      }
+     ]
+    },
+    {
+     "id": "u3-wild-animal",
+     "en": "wild animal",
+     "cz": "divoké zvíře",
+     "pos": "noun",
+     "emoji": null,
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "It's a wild animal. Has it got a tail?",
+       "cz": "Je to divoké zvíře. Má ocas?"
+      }
+     ]
+    }
+   ],
+   "phrases": [
+    {
+     "id": "u3-ph-has-it-got",
+     "en": "Has it got big ears? Yes, it has. / No, it hasn't.",
+     "cz": "Má (ono) velké uši? Ano, má. / Ne, nemá.",
+     "pattern": "Has it got ___? Yes, it has. / No, it hasn't.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u3-ph-have-they-got",
+     "en": "Have they got four legs? Yes, they have. / No, they haven't.",
+     "cz": "Mají čtyři nohy? Ano, mají. / Ne, nemají.",
+     "pattern": "Have they got ___? Yes, they have. / No, they haven't.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u3-ph-it-hasnt-got",
+     "en": "It hasn't got a beak.",
+     "cz": "Nemá zobák.",
+     "pattern": "It hasn't got a ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u3-ph-they-havent-got",
+     "en": "They haven't got wings. They've got big teeth. They're crocodiles.",
+     "cz": "Nemají křídla. Mají velké zuby. Jsou to krokodýli.",
+     "pattern": "They haven't got ___. They've got ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u3-ph-has-it-got-neck",
+     "en": "Has it got a long neck? No, it hasn't.",
+     "cz": "Má dlouhý krk? Ne, nemá.",
+     "pattern": "Has it got a ___?",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u3-ph-x1",
+     "en": "Guess the animal! Has it got a long tail?",
+     "cz": "Uhodni zvíře! Má dlouhý ocas?",
+     "pattern": "Has it got ___?",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u3-ph-x2",
+     "en": "It's got big teeth and it's dangerous.",
+     "cz": "Má velké zuby a je nebezpečné.",
+     "pattern": "It's got ___.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u3-ph-x3",
+     "en": "Have they got feathers? Yes, they have.",
+     "cz": "Mají peří? Ano, mají.",
+     "pattern": "Have they got ___?",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u3-ph-x4",
+     "en": "It hasn't got wings. It's a hippo!",
+     "cz": "Nemá křídla. Je to hroch!",
+     "pattern": "It hasn't got ___.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u3-ph-x5",
+     "en": "A mysterious animal appears in the rainforest.",
+     "cz": "V deštném pralese se objeví záhadné zvíře.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u3-ph-x6",
+     "en": "The hedgehog is lost. Find it!",
+     "cz": "Ježek se ztratil. Najdi ho!",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u3-ph-x7",
+     "en": "Wild animals live in the rainforest.",
+     "cz": "Divoká zvířata žijí v deštném pralese.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    }
+   ],
+   "schoolUnit": "Unit 3"
+  },
+  {
+   "id": "p1-pets",
+   "code": "P1",
+   "title": "My project 1: Pets",
+   "pages": "38-39",
+   "order": 5,
+   "words": [
+    {
+     "id": "p1-cat",
+     "en": "cat",
+     "cz": "kočka",
+     "pos": "noun",
+     "emoji": "🐱",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I've got a cat.",
+       "cz": "Mám kočku."
+      }
+     ]
+    },
+    {
+     "id": "p1-dog",
+     "en": "dog",
+     "cz": "pes",
+     "pos": "noun",
+     "emoji": "🐶",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I've got a dog.",
+       "cz": "Mám psa."
+      }
+     ]
+    },
+    {
+     "id": "p1-guinea-pig",
+     "en": "guinea pig",
+     "cz": "morče",
+     "pos": "noun",
+     "emoji": null,
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I've got a guinea pig.",
+       "cz": "Mám morče."
+      }
+     ]
+    },
+    {
+     "id": "p1-hamster",
+     "en": "hamster",
+     "cz": "křeček",
+     "pos": "noun",
+     "emoji": "🐹",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I've got a hamster.",
+       "cz": "Mám křečka."
+      }
+     ]
+    },
+    {
+     "id": "p1-parrot",
+     "en": "parrot",
+     "cz": "papoušek",
+     "pos": "noun",
+     "emoji": "🦜",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "My parrot can talk.",
+       "cz": "Můj papoušek umí mluvit."
+      }
+     ]
+    },
+    {
+     "id": "p1-turtle",
+     "en": "turtle",
+     "cz": "želva",
+     "pos": "noun",
+     "emoji": "🐢",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I've got a turtle.",
+       "cz": "Mám želvu."
+      }
+     ]
+    },
+    {
+     "id": "p1-stick-insect",
+     "en": "stick insect",
+     "cz": "strašilka (pakobylka)",
+     "pos": "noun",
+     "emoji": null,
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I've got a stick insect.",
+       "cz": "Mám strašilku."
+      }
+     ]
+    },
+    {
+     "id": "p1-fish",
+     "en": "fish",
+     "cz": "rybička",
+     "pos": "noun",
+     "emoji": "🐠",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I've got a fish.",
+       "cz": "Mám rybičku."
+      }
+     ]
+    },
+    {
+     "id": "p1-rabbit",
+     "en": "rabbit",
+     "cz": "králík",
+     "pos": "noun",
+     "emoji": "🐰",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I've got a rabbit.",
+       "cz": "Mám králíka."
+      }
+     ]
+    },
+    {
+     "id": "p1-spider",
+     "en": "spider",
+     "cz": "pavouk",
+     "pos": "noun",
+     "emoji": "🕷️",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "There's a spider in the bathroom!",
+       "cz": "V koupelně je pavouk!"
+      }
+     ]
+    },
+    {
+     "id": "p1-pet",
+     "en": "pet",
+     "cz": "domácí mazlíček",
+     "pos": "noun",
+     "emoji": "🐾",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Have you got any pets?",
+       "cz": "Máš nějaká domácí zvířata?"
+      }
+     ]
+    }
+   ],
+   "phrases": [
+    {
+     "id": "p1-ph-have-you-got-pets",
+     "en": "Have you got any pets? Yes, I have. / No, I haven't.",
+     "cz": "Máš nějaké mazlíčky? Ano, mám. / Ne, nemám.",
+     "pattern": "Have you got any ___? Yes, I have. / No, I haven't.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "p1-ph-ive-got",
+     "en": "I've got two dogs and a turtle.",
+     "cz": "Mám dva psy a želvu.",
+     "pattern": "I've got ___ and ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "p1-ph-its-name-is",
+     "en": "Its name is Bob. Its favourite food is meat.",
+     "cz": "Jmenuje se Bob. Jeho oblíbené jídlo je maso.",
+     "pattern": "Its name is ___. Its favourite food is ___.",
+     "core": true,
+     "source": "book"
+    }
+   ],
+   "schoolUnit": null
+  },
+  {
+   "id": "u4-the-nature-trail",
+   "code": "4",
+   "title": "The nature trail",
+   "pages": "40-49",
+   "order": 6,
+   "words": [
+    {
+     "id": "u4-trail",
+     "en": "trail",
+     "cz": "stezka",
+     "pos": "noun",
+     "emoji": "🥾",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Follow the nature trail.",
+       "cz": "Jdi po naučné stezce."
+      }
+     ]
+    },
+    {
+     "id": "u4-walk",
+     "en": "walk",
+     "cz": "jít pěšky",
+     "pos": "verb",
+     "emoji": "🚶",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Walk along the path.",
+       "cz": "Jdi po cestičce."
+      }
+     ]
+    },
+    {
+     "id": "u4-deep",
+     "en": "deep",
+     "cz": "hluboký",
+     "pos": "adj",
+     "emoji": "🌊",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The lake is deep.",
+       "cz": "Jezero je hluboké."
+      }
+     ]
+    },
+    {
+     "id": "u4-forest",
+     "en": "forest",
+     "cz": "les",
+     "pos": "noun",
+     "emoji": "🌲",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "We walk through the forest.",
+       "cz": "Jdeme lesem."
+      }
+     ]
+    },
+    {
+     "id": "u4-hill",
+     "en": "hill",
+     "cz": "kopec",
+     "pos": "noun",
+     "emoji": "⛰️",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "He's running up the hill.",
+       "cz": "Běží nahoru do kopce."
+      }
+     ]
+    },
+    {
+     "id": "u4-river",
+     "en": "river",
+     "cz": "řeka",
+     "pos": "noun",
+     "emoji": "🏞️",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "She's swimming in the river.",
+       "cz": "Plave v řece."
+      }
+     ]
+    },
+    {
+     "id": "u4-lake",
+     "en": "lake",
+     "cz": "jezero",
+     "pos": "noun",
+     "emoji": "🏞️",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "The lake is cold.",
+       "cz": "Jezero je studené."
+      }
+     ]
+    },
+    {
+     "id": "u4-sand",
+     "en": "sand",
+     "cz": "písek",
+     "pos": "noun",
+     "emoji": "🏖️",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "The sand is hot.",
+       "cz": "Písek je horký."
+      }
+     ]
+    },
+    {
+     "id": "u4-road",
+     "en": "road",
+     "cz": "cesta",
+     "pos": "noun",
+     "emoji": "🛣️",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Don't run across the road!",
+       "cz": "Neběhej přes silnici!"
+      }
+     ]
+    },
+    {
+     "id": "u4-path",
+     "en": "path",
+     "cz": "cestička",
+     "pos": "noun",
+     "emoji": "🛤️",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Walk along the path.",
+       "cz": "Jdi po cestičce."
+      }
+     ]
+    },
+    {
+     "id": "u4-bridge",
+     "en": "bridge",
+     "cz": "most",
+     "pos": "noun",
+     "emoji": "🌉",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Go across the bridge.",
+       "cz": "Jdi přes most."
+      }
+     ]
+    },
+    {
+     "id": "u4-along",
+     "en": "along",
+     "cz": "po",
+     "pos": "prep",
+     "emoji": "➡️",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Walk along the river.",
+       "cz": "Jdi podél řeky."
+      }
+     ]
+    },
+    {
+     "id": "u4-cycle-path",
+     "en": "cycle path",
+     "cz": "cyklostezka",
+     "pos": "noun",
+     "emoji": "🚴",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Ride your bike on the cycle path.",
+       "cz": "Jezdi na kole po cyklostezce."
+      }
+     ]
+    },
+    {
+     "id": "u4-roll",
+     "en": "roll",
+     "cz": "valit se",
+     "pos": "verb",
+     "emoji": "🔄",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The ball is rolling down the hill.",
+       "cz": "Míč se valí z kopce."
+      }
+     ]
+    },
+    {
+     "id": "u4-why",
+     "en": "why",
+     "cz": "proč",
+     "pos": "adv",
+     "emoji": "❓",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Why are you running?",
+       "cz": "Proč běžíš?"
+      }
+     ]
+    },
+    {
+     "id": "u4-crazy",
+     "en": "crazy",
+     "cz": "bláznivý",
+     "pos": "adj",
+     "emoji": "🤪",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The dog is crazy!",
+       "cz": "Ten pes je bláznivý!"
+      }
+     ]
+    },
+    {
+     "id": "u4-chase",
+     "en": "chase",
+     "cz": "honit",
+     "pos": "verb",
+     "emoji": "🏃",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The dog is chasing the cat.",
+       "cz": "Pes honí kočku."
+      }
+     ]
+    },
+    {
+     "id": "u4-spines",
+     "en": "spines",
+     "cz": "ostny",
+     "pos": "noun",
+     "emoji": "🦔",
+     "core": true,
+     "source": "school",
+     "plural": true,
+     "examples": [
+      {
+       "en": "A hedgehog has got spines.",
+       "cz": "Ježek má ostny."
+      }
+     ]
+    },
+    {
+     "id": "u4-better",
+     "en": "better",
+     "cz": "lepší",
+     "pos": "adj",
+     "emoji": "👍",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "This path is better.",
+       "cz": "Tahle cesta je lepší."
+      }
+     ]
+    },
+    {
+     "id": "u4-up",
+     "en": "up",
+     "cz": "nahoru",
+     "pos": "adv",
+     "emoji": "⬆️",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Go up the hill.",
+       "cz": "Jdi nahoru do kopce."
+      }
+     ]
+    },
+    {
+     "id": "u4-down",
+     "en": "down",
+     "cz": "dolů",
+     "pos": "adv",
+     "emoji": "⬇️",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Run down the hill.",
+       "cz": "Běž dolů z kopce."
+      }
+     ]
+    },
+    {
+     "id": "u4-across",
+     "en": "across",
+     "cz": "přes",
+     "pos": "prep",
+     "emoji": "↔️",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Walk across the bridge.",
+       "cz": "Jdi přes most."
+      }
+     ]
+    },
+    {
+     "id": "u4-trip",
+     "en": "trip",
+     "cz": "výlet",
+     "pos": "noun",
+     "emoji": "🎒",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "We're on a school trip.",
+       "cz": "Jsme na školním výletě."
+      }
+     ]
+    },
+    {
+     "id": "u4-den",
+     "en": "den",
+     "cz": "doupě",
+     "pos": "noun",
+     "emoji": "🕳️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The fox is in its den.",
+       "cz": "Liška je ve svém doupěti."
+      }
+     ]
+    },
+    {
+     "id": "u4-branch",
+     "en": "branch",
+     "cz": "větev",
+     "pos": "noun",
+     "emoji": "🌳",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The bird is on a branch.",
+       "cz": "Pták je na větvi."
+      }
+     ]
+    },
+    {
+     "id": "u4-twig",
+     "en": "twig",
+     "cz": "větvička",
+     "pos": "noun",
+     "emoji": "🌿",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Collect some twigs.",
+       "cz": "Nasbírej větvičky."
+      }
+     ]
+    },
+    {
+     "id": "u4-explore",
+     "en": "explore",
+     "cz": "prozkoumávat",
+     "pos": "verb",
+     "emoji": "🧭",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Let's explore the forest!",
+       "cz": "Pojďme prozkoumat les!"
+      }
+     ]
+    },
+    {
+     "id": "u4-touch",
+     "en": "touch",
+     "cz": "dotknout se",
+     "pos": "verb",
+     "emoji": "👆",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Don't touch it!",
+       "cz": "Nesahej na to!"
+      }
+     ]
+    },
+    {
+     "id": "u4-smell",
+     "en": "smell",
+     "cz": "čichat",
+     "pos": "verb",
+     "emoji": "👃",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Smell the flowers.",
+       "cz": "Přivoň si ke květinám."
+      }
+     ]
+    },
+    {
+     "id": "u4-mud",
+     "en": "mud",
+     "cz": "bláto",
+     "pos": "noun",
+     "emoji": "🟤",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "My boots are in the mud.",
+       "cz": "Moje boty jsou v blátě."
+      }
+     ]
+    },
+    {
+     "id": "u4-hero",
+     "en": "hero",
+     "cz": "hrdina",
+     "pos": "noun",
+     "emoji": "🦸",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "You're a hero!",
+       "cz": "Jsi hrdina!"
+      }
+     ]
+    },
+    {
+     "id": "u4-secret-passage",
+     "en": "secret passage",
+     "cz": "tajná cesta",
+     "pos": "noun",
+     "emoji": "🚪",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "There's a secret passage in the castle.",
+       "cz": "V hradě je tajná chodba."
+      }
+     ]
+    },
+    {
+     "id": "u4-dark-cave",
+     "en": "dark cave",
+     "cz": "tmavá jeskyně",
+     "pos": "noun",
+     "emoji": "🕳️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "It's a dark cave.",
+       "cz": "Je to tmavá jeskyně."
+      }
+     ]
+    },
+    {
+     "id": "u4-beach",
+     "en": "beach",
+     "cz": "pláž",
+     "pos": "noun",
+     "emoji": "🏖️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "We go to the beach in summer.",
+       "cz": "V létě chodíme na pláž."
+      }
+     ]
+    },
+    {
+     "id": "u4-treasure",
+     "en": "treasure",
+     "cz": "poklad",
+     "pos": "noun",
+     "emoji": "💰",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Find the treasure!",
+       "cz": "Najdi poklad!"
+      }
+     ]
+    },
+    {
+     "id": "u4-escape",
+     "en": "escape",
+     "cz": "utéci",
+     "pos": "verb",
+     "emoji": "🏃",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The mouse escapes from the cat.",
+       "cz": "Myš uteče kočce."
+      }
+     ]
+    },
+    {
+     "id": "u4-giant",
+     "en": "giant",
+     "cz": "gigantický, obrovský",
+     "pos": "adj",
+     "emoji": "🦣",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "It's a giant tree!",
+       "cz": "To je obrovský strom!"
+      }
+     ]
+    },
+    {
+     "id": "u4-torch",
+     "en": "torch",
+     "cz": "baterka",
+     "pos": "noun",
+     "emoji": "🔦",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "I've got a torch.",
+       "cz": "Mám baterku."
+      }
+     ]
+    },
+    {
+     "id": "u4-grass",
+     "en": "grass",
+     "cz": "tráva",
+     "pos": "noun",
+     "emoji": "🌿",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "The grass is green.",
+       "cz": "Tráva je zelená."
+      }
+     ]
+    },
+    {
+     "id": "u4-leaves",
+     "en": "leaves",
+     "cz": "listy (mn. č.)",
+     "pos": "noun",
+     "emoji": "🍂",
+     "lesson": 1,
+     "plural": true,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Giraffes eat leaves.",
+       "cz": "Žirafy jedí listy."
+      }
+     ]
+    },
+    {
+     "id": "u4-run",
+     "en": "run",
+     "cz": "běžet",
+     "pos": "verb",
+     "emoji": "🏃",
+     "lesson": 4,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "He's running.",
+       "cz": "Běží."
+      }
+     ]
+    },
+    {
+     "id": "u4-climb",
+     "en": "climb",
+     "cz": "šplhat, lézt",
+     "pos": "verb",
+     "emoji": "🧗",
+     "lesson": 2,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I'm climbing a tree.",
+       "cz": "Lezu na strom."
+      }
+     ]
+    },
+    {
+     "id": "u4-swim",
+     "en": "swim",
+     "cz": "plavat",
+     "pos": "verb",
+     "emoji": "🏊",
+     "lesson": 2,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Are you swimming?",
+       "cz": "Plaveš?"
+      }
+     ]
+    },
+    {
+     "id": "u4-sail",
+     "en": "sail",
+     "cz": "plout, plachtit",
+     "pos": "verb",
+     "emoji": "⛵",
+     "lesson": 4,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "We're sailing on the lake.",
+       "cz": "Plavíme se na jezeře."
+      }
+     ]
+    },
+    {
+     "id": "u4-ride-a-bike",
+     "en": "ride a bike",
+     "cz": "jet na kole",
+     "pos": "verb",
+     "emoji": "🚴",
+     "lesson": 4,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "She's riding a bike.",
+       "cz": "Jede na kole."
+      }
+     ]
+    },
+    {
+     "id": "u4-ride-a-horse",
+     "en": "ride a horse",
+     "cz": "jet na koni",
+     "pos": "verb",
+     "emoji": "🏇",
+     "lesson": 4,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "He's riding a horse.",
+       "cz": "Jede na koni."
+      }
+     ]
+    }
+   ],
+   "phrases": [
+    {
+     "id": "u4-ph-what-are-you-doing-im",
+     "en": "What are you doing? I'm climbing.",
+     "cz": "Co děláš? Šplhám.",
+     "pattern": "What are you doing? I'm ___ing.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u4-ph-are-you-ing",
+     "en": "Are you swimming? Yes, I am. / No, I'm not.",
+     "cz": "Plaveš? Ano, plavu. / Ne, neplavu.",
+     "pattern": "Are you ___ing? Yes, I am. / No, I'm not.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u4-ph-whats-he-doing",
+     "en": "What's he doing? He's running up the hill.",
+     "cz": "Co dělá (on)? Běží do kopce.",
+     "pattern": "What's he doing? He's ___ing ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u4-ph-whats-she-doing",
+     "en": "What's she doing? She's walking along the path.",
+     "cz": "Co dělá (ona)? Jde po pěšině.",
+     "pattern": "What's she doing? She's ___ing ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u4-ph-running-prepositions",
+     "en": "He's running down the hill. / He's running across the bridge.",
+     "cz": "Běží z kopce. / Běží přes most.",
+     "pattern": "He's running up/down/along/across the ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u4-ph-whats-x-doing",
+     "en": "What's Toby doing?",
+     "cz": "Co dělá Toby?",
+     "pattern": "What's ___ doing?",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u4-ph-x1",
+     "en": "Walk along the path to the bridge.",
+     "cz": "Jdi po cestičce k mostu.",
+     "pattern": "Walk along the ___.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u4-ph-x2",
+     "en": "He's running up the hill and down to the river.",
+     "cz": "Běží nahoru do kopce a dolů k řece.",
+     "pattern": "up the ___ / down to the ___",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u4-ph-x3",
+     "en": "Why is the dog crazy? It's chasing a hedgehog!",
+     "cz": "Proč je ten pes bláznivý? Honí ježka!",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u4-ph-x4",
+     "en": "Don't touch the spines!",
+     "cz": "Nesahej na ostny!",
+     "pattern": "Don't touch ___.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u4-ph-x5",
+     "en": "Let's explore the dark cave with a torch.",
+     "cz": "Pojďme prozkoumat tmavou jeskyni s baterkou.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u4-ph-x6",
+     "en": "There's treasure in the secret passage!",
+     "cz": "V tajné chodbě je poklad!",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u4-ph-x7",
+     "en": "The lake is deep. Watch out!",
+     "cz": "Jezero je hluboké. Pozor!",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u4-ph-x8",
+     "en": "We go across the bridge on our trip.",
+     "cz": "Na výletě jdeme přes most.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    }
+   ],
+   "schoolUnit": "Unit 4"
+  },
+  {
+   "id": "u5-the-frozen-lake",
+   "code": "5",
+   "title": "The frozen lake",
+   "pages": "50-59",
+   "order": 7,
+   "words": [
+    {
+     "id": "u5-skate",
+     "en": "skate",
+     "cz": "bruslit",
+     "pos": "verb",
+     "emoji": "⛸️",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "We're skating.",
+       "cz": "Bruslíme."
+      }
+     ]
+    },
+    {
+     "id": "u5-drink",
+     "en": "drink",
+     "cz": "pít",
+     "pos": "verb",
+     "emoji": "🥤",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "He's drinking hot chocolate.",
+       "cz": "Pije horkou čokoládu."
+      }
+     ]
+    },
+    {
+     "id": "u5-wave",
+     "en": "wave",
+     "cz": "mávat",
+     "pos": "verb",
+     "emoji": "👋",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "She's waving.",
+       "cz": "Mává."
+      }
+     ]
+    },
+    {
+     "id": "u5-smile",
+     "en": "smile",
+     "cz": "usmívat se",
+     "pos": "verb",
+     "emoji": "😊",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Smile! I'm taking a photo.",
+       "cz": "Usměj se! Fotím."
+      }
+     ]
+    },
+    {
+     "id": "u5-dance",
+     "en": "dance",
+     "cz": "tančit",
+     "pos": "verb",
+     "emoji": "💃",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Are you dancing? Yes, we are.",
+       "cz": "Tančíte? Ano, tančíme."
+      }
+     ]
+    },
+    {
+     "id": "u5-make-a-snowman",
+     "en": "make a snowman",
+     "cz": "stavět sněhuláka",
+     "pos": "verb",
+     "emoji": "⛄",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "We're making a snowman.",
+       "cz": "Stavíme sněhuláka."
+      }
+     ]
+    },
+    {
+     "id": "u5-take-a-photo",
+     "en": "take a photo",
+     "cz": "fotit",
+     "pos": "verb",
+     "emoji": "📸",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "I'm taking a photo.",
+       "cz": "Fotím."
+      }
+     ]
+    },
+    {
+     "id": "u5-listen-to-music",
+     "en": "listen to music",
+     "cz": "poslouchat hudbu",
+     "pos": "verb",
+     "emoji": "🎧",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "They're listening to music.",
+       "cz": "Poslouchají hudbu."
+      }
+     ]
+    },
+    {
+     "id": "u5-quickly",
+     "en": "quickly",
+     "cz": "rychle",
+     "pos": "adv",
+     "emoji": "💨",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Run quickly!",
+       "cz": "Běž rychle!"
+      }
+     ]
+    },
+    {
+     "id": "u5-fat-tummy",
+     "en": "fat tummy",
+     "cz": "tlusté břicho",
+     "pos": "noun",
+     "emoji": "🫃",
+     "lesson": 3,
+     "core": true,
+     "source": "school+book",
+     "bookForm": "tummy",
+     "examples": [
+      {
+       "en": "The snowman has got a fat tummy.",
+       "cz": "Sněhulák má tlusté břicho."
+      }
+     ]
+    },
+    {
+     "id": "u5-sledge",
+     "en": "sledge",
+     "cz": "saně",
+     "pos": "noun",
+     "emoji": "🛷",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The sledge is fast.",
+       "cz": "Saně jsou rychlé."
+      }
+     ]
+    },
+    {
+     "id": "u5-move",
+     "en": "move",
+     "cz": "hýbat se",
+     "pos": "verb",
+     "emoji": "🕺",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Move quickly!",
+       "cz": "Hýbej se rychle!"
+      }
+     ]
+    },
+    {
+     "id": "u5-fat",
+     "en": "fat",
+     "cz": "tlustý",
+     "pos": "adj",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "He's fat.",
+       "cz": "On je tlustý."
+      }
+     ]
+    },
+    {
+     "id": "u5-thin",
+     "en": "thin",
+     "cz": "tenký",
+     "pos": "adj",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "She's thin.",
+       "cz": "Ona je hubená."
+      }
+     ]
+    },
+    {
+     "id": "u5-short",
+     "en": "short",
+     "cz": "krátký, malý",
+     "pos": "adj",
+     "emoji": "📏",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "The snowman is short.",
+       "cz": "Sněhulák je malý."
+      }
+     ]
+    },
+    {
+     "id": "u5-tall",
+     "en": "tall",
+     "cz": "vysoký",
+     "pos": "adj",
+     "emoji": "🦒",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My dad is tall.",
+       "cz": "Táta je vysoký."
+      }
+     ]
+    },
+    {
+     "id": "u5-clean",
+     "en": "clean",
+     "cz": "čistý",
+     "pos": "adj",
+     "emoji": "✨",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My hands are clean.",
+       "cz": "Mám čisté ruce."
+      }
+     ]
+    },
+    {
+     "id": "u5-dirty",
+     "en": "dirty",
+     "cz": "špinavý",
+     "pos": "adj",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My hands are dirty.",
+       "cz": "Mám špinavé ruce."
+      }
+     ]
+    },
+    {
+     "id": "u5-scarf",
+     "en": "scarf",
+     "cz": "šála",
+     "pos": "noun",
+     "emoji": "🧣",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "My scarf is red.",
+       "cz": "Moje šála je červená."
+      }
+     ]
+    },
+    {
+     "id": "u5-ice-rink",
+     "en": "ice rink",
+     "cz": "kluziště",
+     "pos": "noun",
+     "emoji": "⛸️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "We're skating on the ice rink.",
+       "cz": "Bruslíme na kluzišti."
+      }
+     ]
+    },
+    {
+     "id": "u5-dry",
+     "en": "dry",
+     "cz": "suchý",
+     "pos": "adj",
+     "emoji": "☀️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "My scarf is dry.",
+       "cz": "Moje šála je suchá."
+      }
+     ]
+    },
+    {
+     "id": "u5-ski-slope",
+     "en": "ski slope",
+     "cz": "sjezdovka",
+     "pos": "noun",
+     "emoji": "⛷️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The ski slope is long.",
+       "cz": "Sjezdovka je dlouhá."
+      }
+     ]
+    },
+    {
+     "id": "u5-spring",
+     "en": "spring",
+     "cz": "jaro",
+     "pos": "noun",
+     "emoji": "🌸",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "My favourite season is spring.",
+       "cz": "Moje oblíbené roční období je jaro."
+      }
+     ]
+    },
+    {
+     "id": "u5-summer",
+     "en": "summer",
+     "cz": "léto",
+     "pos": "noun",
+     "emoji": "☀️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "My favourite season is summer.",
+       "cz": "Moje oblíbené roční období je léto."
+      }
+     ]
+    },
+    {
+     "id": "u5-autumn",
+     "en": "autumn",
+     "cz": "podzim",
+     "pos": "noun",
+     "emoji": "🍂",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "My favourite season is autumn.",
+       "cz": "Moje oblíbené roční období je podzim."
+      }
+     ]
+    },
+    {
+     "id": "u5-winter",
+     "en": "winter",
+     "cz": "zima",
+     "pos": "noun",
+     "emoji": "❄️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "My favourite season is winter.",
+       "cz": "Moje oblíbené roční období je zima."
+      }
+     ]
+    },
+    {
+     "id": "u5-grasshopper",
+     "en": "grasshopper",
+     "cz": "kobylka",
+     "pos": "noun",
+     "emoji": "🦗",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The grasshopper is green.",
+       "cz": "Kobylka je zelená."
+      }
+     ]
+    },
+    {
+     "id": "u5-ant",
+     "en": "ant",
+     "cz": "mravenec",
+     "pos": "noun",
+     "emoji": "🐜",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The ant is small.",
+       "cz": "Mravenec je malý."
+      }
+     ]
+    },
+    {
+     "id": "u5-collect",
+     "en": "collect",
+     "cz": "sbírat",
+     "pos": "verb",
+     "emoji": "🧺",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Collect the leaves!",
+       "cz": "Posbírej listy!"
+      }
+     ]
+    },
+    {
+     "id": "u5-answer",
+     "en": "answer",
+     "cz": "odpovědět",
+     "pos": "verb",
+     "emoji": "💬",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Answer the question.",
+       "cz": "Odpověz na otázku."
+      }
+     ]
+    },
+    {
+     "id": "u5-silly",
+     "en": "silly",
+     "cz": "hloupý",
+     "pos": "adj",
+     "emoji": "🤪",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Don't be silly!",
+       "cz": "Nebuď hloupý!"
+      }
+     ]
+    },
+    {
+     "id": "u5-eat",
+     "en": "eat",
+     "cz": "jíst",
+     "pos": "verb",
+     "emoji": "🍽️",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "We're eating.",
+       "cz": "Jíme."
+      }
+     ]
+    },
+    {
+     "id": "u5-play",
+     "en": "play",
+     "cz": "hrát (si)",
+     "pos": "verb",
+     "emoji": null,
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "They're playing.",
+       "cz": "Hrají si."
+      }
+     ]
+    },
+    {
+     "id": "u5-snowman",
+     "en": "snowman",
+     "cz": "sněhulák",
+     "pos": "noun",
+     "emoji": "⛄",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Let's make a snowman!",
+       "cz": "Postavme sněhuláka!"
+      }
+     ]
+    },
+    {
+     "id": "u5-hat",
+     "en": "hat",
+     "cz": "čepice, klobouk",
+     "pos": "noun",
+     "emoji": "🎩",
+     "lesson": 4,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "He's got a dirty hat.",
+       "cz": "Má špinavý klobouk."
+      }
+     ]
+    }
+   ],
+   "phrases": [
+    {
+     "id": "u5-ph-what-are-you-doing-were",
+     "en": "What are you doing? We're skating.",
+     "cz": "Co děláte? Bruslíme.",
+     "pattern": "What are you doing? We're ___ing.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u5-ph-are-you-ing-we",
+     "en": "Are you dancing? Yes, we are. / No, we aren't.",
+     "cz": "Tancujete? Ano, tancujeme. / Ne, netancujeme.",
+     "pattern": "Are you ___ing? Yes, we are. / No, we aren't.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u5-ph-were-making",
+     "en": "We're making a snowman.",
+     "cz": "Stavíme sněhuláka.",
+     "pattern": "We're ___ing ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u5-ph-hes-a-snowman",
+     "en": "He's a short snowman. He's got a dirty hat.",
+     "cz": "Je to malý sněhulák. Má špinavou čepici.",
+     "pattern": "He's a ___ snowman. He's got a ___ hat.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u5-ph-is-it-number",
+     "en": "Is it number 2? Yes, it is.",
+     "cz": "Je to číslo 2? Ano, je.",
+     "pattern": "Is it number ___? Yes, it is. / No, it isn't.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u5-ph-x1",
+     "en": "We're skating on the ice rink.",
+     "cz": "Bruslíme na kluzišti.",
+     "pattern": "We're ___ing.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u5-ph-x2",
+     "en": "Are you making a snowman? Yes, we are.",
+     "cz": "Stavíte sněhuláka? Ano, stavíme.",
+     "pattern": "Are you ___ing?",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u5-ph-x3",
+     "en": "Smile and wave! I'm taking a photo.",
+     "cz": "Usměj se a zamávej! Fotím.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u5-ph-x4",
+     "en": "He's tall and thin. She's short and fat.",
+     "cz": "On je vysoký a hubený. Ona je malá a tlustá.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u5-ph-x5",
+     "en": "Move quickly! The sledge is fast!",
+     "cz": "Hýbej se rychle! Saně jsou rychlé!",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u5-ph-x6",
+     "en": "My scarf is wet and dirty.",
+     "cz": "Moje šála je mokrá a špinavá.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u5-ph-x7",
+     "en": "Collect the leaves and answer the question.",
+     "cz": "Posbírej listy a odpověz na otázku.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u5-ph-x8",
+     "en": "Don't be silly!",
+     "cz": "Nebuď hloupý!",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    }
+   ],
+   "schoolUnit": "Unit 5"
+  },
+  {
+   "id": "u6-all-year-round",
+   "code": "6",
+   "title": "All year round",
+   "pages": "60-69",
+   "order": 8,
+   "words": [
+    {
+     "id": "u6-smell-flowers",
+     "en": "smell flowers",
+     "cz": "čichat ke květinám",
+     "pos": "verb",
+     "emoji": "🌷",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "In spring we smell flowers.",
+       "cz": "Na jaře čicháme ke květinám."
+      }
+     ]
+    },
+    {
+     "id": "u6-plant-seeds",
+     "en": "plant seeds",
+     "cz": "sázet (semínka)",
+     "pos": "verb",
+     "emoji": "🌱",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "In spring we plant seeds.",
+       "cz": "Na jaře sázíme semínka."
+      }
+     ]
+    },
+    {
+     "id": "u6-finish-school",
+     "en": "finish school",
+     "cz": "skončit školu",
+     "pos": "verb",
+     "emoji": "🎒",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "In summer we finish school.",
+       "cz": "V létě končíme školu."
+      }
+     ]
+    },
+    {
+     "id": "u6-eat-chestnuts",
+     "en": "eat chestnuts",
+     "cz": "jíst kaštany",
+     "pos": "verb",
+     "emoji": "🌰",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "In autumn we eat chestnuts.",
+       "cz": "Na podzim jíme kaštany."
+      }
+     ]
+    },
+    {
+     "id": "u6-celebrate-halloween",
+     "en": "celebrate Halloween",
+     "cz": "slavit Halloween",
+     "pos": "verb",
+     "emoji": "🎃",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "In autumn we celebrate Halloween.",
+       "cz": "Na podzim slavíme Halloween."
+      }
+     ]
+    },
+    {
+     "id": "u6-wear-warm-clothes",
+     "en": "wear warm clothes",
+     "cz": "nosit teplé oblečení",
+     "pos": "verb",
+     "emoji": "🧥",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "In winter we wear warm clothes.",
+       "cz": "V zimě nosíme teplé oblečení."
+      }
+     ]
+    },
+    {
+     "id": "u6-open-presents",
+     "en": "open presents",
+     "cz": "rozbalit dárky",
+     "pos": "verb",
+     "emoji": "🎁",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "In winter we open presents.",
+       "cz": "V zimě rozbalujeme dárky."
+      }
+     ]
+    },
+    {
+     "id": "u6-season",
+     "en": "season",
+     "cz": "roční období",
+     "pos": "noun",
+     "emoji": "🍂",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "What's your favourite season?",
+       "cz": "Jaké je tvé oblíbené roční období?"
+      }
+     ]
+    },
+    {
+     "id": "u6-outside",
+     "en": "outside",
+     "cz": "venku",
+     "pos": "adv",
+     "emoji": "🌳",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "We play outside.",
+       "cz": "Hrajeme si venku."
+      }
+     ]
+    },
+    {
+     "id": "u6-postcard",
+     "en": "postcard",
+     "cz": "pohlednice",
+     "pos": "noun",
+     "emoji": "📮",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Send me a postcard!",
+       "cz": "Pošli mi pohlednici!"
+      }
+     ]
+    },
+    {
+     "id": "u6-what-do-you-do",
+     "en": "What do you do?",
+     "cz": "Co děláš?",
+     "pos": "chunk",
+     "emoji": "❓",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "What do you do in winter?",
+       "cz": "Co děláš v zimě?"
+      }
+     ]
+    },
+    {
+     "id": "u6-impossible",
+     "en": "impossible",
+     "cz": "nemožné",
+     "pos": "adj",
+     "emoji": "🚫",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "That's impossible!",
+       "cz": "To není možné!"
+      }
+     ]
+    },
+    {
+     "id": "u6-camera",
+     "en": "camera",
+     "cz": "fotoaparát",
+     "pos": "noun",
+     "emoji": "📷",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Whose is this camera? It's mine.",
+       "cz": "Čí je tenhle fotoaparát? Můj."
+      }
+     ]
+    },
+    {
+     "id": "u6-whats-happening",
+     "en": "What's happening?",
+     "cz": "Co se děje?",
+     "pos": "chunk",
+     "emoji": "❓",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "What's happening? It's a festival!",
+       "cz": "Co se děje? Je svátek!"
+      }
+     ]
+    },
+    {
+     "id": "u6-joke",
+     "en": "joke",
+     "cz": "vtip",
+     "pos": "noun",
+     "emoji": "😂",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "It's a joke!",
+       "cz": "Je to vtip!"
+      }
+     ]
+    },
+    {
+     "id": "u6-festival",
+     "en": "festival",
+     "cz": "svátek",
+     "pos": "noun",
+     "emoji": "🎉",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Harvest Festival is in autumn.",
+       "cz": "Dožínky jsou na podzim."
+      }
+     ]
+    },
+    {
+     "id": "u6-remember",
+     "en": "remember",
+     "cz": "pamatovat si, nezapomeň",
+     "pos": "verb",
+     "emoji": "🧠",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Remember your camera!",
+       "cz": "Nezapomeň si fotoaparát!"
+      }
+     ]
+    },
+    {
+     "id": "u6-turkey",
+     "en": "turkey",
+     "cz": "krocan",
+     "pos": "noun",
+     "emoji": "🦃",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "We eat turkey in December.",
+       "cz": "V prosinci jíme krocana."
+      }
+     ]
+    },
+    {
+     "id": "u6-january",
+     "en": "January",
+     "cz": "leden",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My birthday is in January.",
+       "cz": "Narozeniny mám v lednu."
+      }
+     ]
+    },
+    {
+     "id": "u6-february",
+     "en": "February",
+     "cz": "únor",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My birthday is in February.",
+       "cz": "Narozeniny mám v únoru."
+      }
+     ]
+    },
+    {
+     "id": "u6-march",
+     "en": "March",
+     "cz": "březen",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My birthday is in March.",
+       "cz": "Narozeniny mám v březnu."
+      }
+     ]
+    },
+    {
+     "id": "u6-april",
+     "en": "April",
+     "cz": "duben",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My birthday is in April.",
+       "cz": "Narozeniny mám v dubnu."
+      }
+     ]
+    },
+    {
+     "id": "u6-may",
+     "en": "May",
+     "cz": "květen",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My birthday is in May.",
+       "cz": "Narozeniny mám v květnu."
+      }
+     ]
+    },
+    {
+     "id": "u6-june",
+     "en": "June",
+     "cz": "červen",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My birthday is in June.",
+       "cz": "Narozeniny mám v červnu."
+      }
+     ]
+    },
+    {
+     "id": "u6-july",
+     "en": "July",
+     "cz": "červenec",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My birthday is in July.",
+       "cz": "Narozeniny mám v červenci."
+      }
+     ]
+    },
+    {
+     "id": "u6-august",
+     "en": "August",
+     "cz": "srpen",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My birthday is in August.",
+       "cz": "Narozeniny mám v srpnu."
+      }
+     ]
+    },
+    {
+     "id": "u6-september",
+     "en": "September",
+     "cz": "září",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My birthday is in September.",
+       "cz": "Narozeniny mám v září."
+      }
+     ]
+    },
+    {
+     "id": "u6-october",
+     "en": "October",
+     "cz": "říjen",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My birthday is in October.",
+       "cz": "Narozeniny mám v říjnu."
+      }
+     ]
+    },
+    {
+     "id": "u6-november",
+     "en": "November",
+     "cz": "listopad",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My birthday is in November.",
+       "cz": "Narozeniny mám v listopadu."
+      }
+     ]
+    },
+    {
+     "id": "u6-december",
+     "en": "December",
+     "cz": "prosinec",
+     "pos": "noun",
+     "emoji": "📅",
+     "lesson": 5,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "My birthday is in December.",
+       "cz": "Narozeniny mám v prosinci."
+      }
+     ]
+    },
+    {
+     "id": "u6-except-for",
+     "en": "except for",
+     "cz": "kromě",
+     "pos": "prep",
+     "emoji": null,
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Every day except for Sunday.",
+       "cz": "Každý den kromě neděle."
+      }
+     ]
+    },
+    {
+     "id": "u6-leap-year",
+     "en": "leap year",
+     "cz": "přestupný rok",
+     "pos": "noun",
+     "emoji": "📆",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "A leap year has got 366 days.",
+       "cz": "Přestupný rok má 366 dní."
+      }
+     ]
+    },
+    {
+     "id": "u6-first",
+     "en": "first",
+     "cz": "první (1st)",
+     "pos": "num",
+     "emoji": "1️⃣",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the first of May.",
+       "cz": "Je prvního května."
+      }
+     ]
+    },
+    {
+     "id": "u6-second",
+     "en": "second",
+     "cz": "druhý (2nd)",
+     "pos": "num",
+     "emoji": "2️⃣",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the second of May.",
+       "cz": "Je druhého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-third",
+     "en": "third",
+     "cz": "třetí (3rd)",
+     "pos": "num",
+     "emoji": "3️⃣",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the third of May.",
+       "cz": "Je třetího května."
+      }
+     ]
+    },
+    {
+     "id": "u6-fourth",
+     "en": "fourth",
+     "cz": "čtvrtý (4th)",
+     "pos": "num",
+     "emoji": "4️⃣",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the fourth of May.",
+       "cz": "Je čtvrtého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-fifth",
+     "en": "fifth",
+     "cz": "pátý (5th)",
+     "pos": "num",
+     "emoji": "5️⃣",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the fifth of May.",
+       "cz": "Je pátého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-sixth",
+     "en": "sixth",
+     "cz": "šestý (6th)",
+     "pos": "num",
+     "emoji": "6️⃣",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the sixth of May.",
+       "cz": "Je šestého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-seventh",
+     "en": "seventh",
+     "cz": "sedmý (7th)",
+     "pos": "num",
+     "emoji": "7️⃣",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the seventh of May.",
+       "cz": "Je sedmého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-eighth",
+     "en": "eighth",
+     "cz": "osmý (8th)",
+     "pos": "num",
+     "emoji": "8️⃣",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the eighth of May.",
+       "cz": "Je osmého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-ninth",
+     "en": "ninth",
+     "cz": "devátý (9th)",
+     "pos": "num",
+     "emoji": "9️⃣",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the ninth of May.",
+       "cz": "Je devátého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-tenth",
+     "en": "tenth",
+     "cz": "desátý (10th)",
+     "pos": "num",
+     "emoji": "🔟",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the tenth of May.",
+       "cz": "Je desátého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-eleventh",
+     "en": "eleventh",
+     "cz": "jedenáctý (11th)",
+     "pos": "num",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the eleventh of May.",
+       "cz": "Je jedenáctého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-twelfth",
+     "en": "twelfth",
+     "cz": "dvanáctý (12th)",
+     "pos": "num",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the twelfth of May.",
+       "cz": "Je dvanáctého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-thirteenth",
+     "en": "thirteenth",
+     "cz": "třináctý (13th)",
+     "pos": "num",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the thirteenth of May.",
+       "cz": "Je třináctého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-fourteenth",
+     "en": "fourteenth",
+     "cz": "čtrnáctý (14th)",
+     "pos": "num",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the fourteenth of May.",
+       "cz": "Je čtrnáctého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-fifteenth",
+     "en": "fifteenth",
+     "cz": "patnáctý (15th)",
+     "pos": "num",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the fifteenth of May.",
+       "cz": "Je patnáctého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-sixteenth",
+     "en": "sixteenth",
+     "cz": "šestnáctý (16th)",
+     "pos": "num",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the sixteenth of May.",
+       "cz": "Je šestnáctého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-seventeenth",
+     "en": "seventeenth",
+     "cz": "sedmnáctý (17th)",
+     "pos": "num",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the seventeenth of May.",
+       "cz": "Je sedmnáctého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-eighteenth",
+     "en": "eighteenth",
+     "cz": "osmnáctý (18th)",
+     "pos": "num",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the eighteenth of May.",
+       "cz": "Je osmnáctého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-nineteenth",
+     "en": "nineteenth",
+     "cz": "devatenáctý (19th)",
+     "pos": "num",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the nineteenth of May.",
+       "cz": "Je devatenáctého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-twentieth",
+     "en": "twentieth",
+     "cz": "dvacátý (20th)",
+     "pos": "num",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the twentieth of May.",
+       "cz": "Je dvacátého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-twenty-first",
+     "en": "twenty-first",
+     "cz": "dvacátý první (21st)",
+     "pos": "num",
+     "emoji": null,
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "It's the twenty-first of May.",
+       "cz": "Je dvacátého prvního května."
+      }
+     ]
+    },
+    {
+     "id": "u6-twenty-second",
+     "en": "twenty-second",
+     "cz": "dvacátý druhý (22nd)",
+     "pos": "num",
+     "emoji": null,
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "It's the twenty-second of May.",
+       "cz": "Je dvacátého druhého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-twenty-third",
+     "en": "twenty-third",
+     "cz": "dvacátý třetí (23rd)",
+     "pos": "num",
+     "emoji": null,
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "It's the twenty-third of May.",
+       "cz": "Je dvacátého třetího května."
+      }
+     ]
+    },
+    {
+     "id": "u6-thirtieth",
+     "en": "thirtieth",
+     "cz": "třicátý (30th)",
+     "pos": "num",
+     "emoji": null,
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "It's the thirtieth of May.",
+       "cz": "Je třicátého května."
+      }
+     ]
+    },
+    {
+     "id": "u6-spring",
+     "en": "spring",
+     "cz": "jaro",
+     "pos": "noun",
+     "emoji": "🌸",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "My favourite season is spring.",
+       "cz": "Moje oblíbené roční období je jaro."
+      }
+     ]
+    },
+    {
+     "id": "u6-summer",
+     "en": "summer",
+     "cz": "léto",
+     "pos": "noun",
+     "emoji": "☀️",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "My favourite season is summer.",
+       "cz": "Moje oblíbené roční období je léto."
+      }
+     ]
+    },
+    {
+     "id": "u6-autumn",
+     "en": "autumn",
+     "cz": "podzim",
+     "pos": "noun",
+     "emoji": "🍂",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "My favourite season is autumn.",
+       "cz": "Moje oblíbené roční období je podzim."
+      }
+     ]
+    },
+    {
+     "id": "u6-winter",
+     "en": "winter",
+     "cz": "zima (roční období)",
+     "pos": "noun",
+     "emoji": "❄️",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "My favourite season is winter.",
+       "cz": "Moje oblíbené roční období je zima."
+      }
+     ]
+    },
+    {
+     "id": "u6-go-to-the-beach",
+     "en": "go to the beach",
+     "cz": "jít na pláž",
+     "pos": "verb",
+     "emoji": "🏖️",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "In summer we go to the beach.",
+       "cz": "V létě chodíme na pláž."
+      }
+     ]
+    },
+    {
+     "id": "u6-birthday",
+     "en": "birthday",
+     "cz": "narozeniny",
+     "pos": "noun",
+     "emoji": "🎂",
+     "lesson": 4,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "When's your birthday?",
+       "cz": "Kdy máš narozeniny?"
+      }
+     ]
+    }
+   ],
+   "phrases": [
+    {
+     "id": "u6-ph-favourite-season",
+     "en": "What's your favourite season? My favourite season is spring.",
+     "cz": "Jaké je tvoje oblíbené roční období? Moje oblíbené roční období je jaro.",
+     "pattern": "What's your favourite season? My favourite season is ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u6-ph-what-do-you-do-in",
+     "en": "What do you do in spring? We plant seeds.",
+     "cz": "Co děláte na jaře? Sázíme semínka.",
+     "pattern": "What do you do in ___? We ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u6-ph-do-they",
+     "en": "Do they finish school? Yes, they do. / No, they don't.",
+     "cz": "Končí (oni) školu? Ano, končí. / Ne, nekončí.",
+     "pattern": "Do they ___? Yes, they do. / No, they don't.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u6-ph-do-you-too",
+     "en": "Do you eat chestnuts in America, too? Yes, we do.",
+     "cz": "Jíte v Americe taky kaštany? Ano, jíme.",
+     "pattern": "Do you ___, too? Yes, we do.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u6-ph-whens-your-birthday",
+     "en": "When's your birthday? My birthday is on the twelfth of July.",
+     "cz": "Kdy máš narozeniny? Mám narozeniny dvanáctého července.",
+     "pattern": "When's your birthday? My birthday is on the ___ of ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u6-ph-x1",
+     "en": "What do you do in autumn? We eat chestnuts.",
+     "cz": "Co děláte na podzim? Jíme kaštany.",
+     "pattern": "What do you do in ___?",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u6-ph-x2",
+     "en": "In winter we wear warm clothes.",
+     "cz": "V zimě nosíme teplé oblečení.",
+     "pattern": "In ___ we ___.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u6-ph-x3",
+     "en": "What's happening? It's a festival!",
+     "cz": "Co se děje? Je svátek!",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u6-ph-x4",
+     "en": "When's your birthday? It's on the third of May.",
+     "cz": "Kdy máš narozeniny? Třetího května.",
+     "pattern": "It's on the ___ of ___.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u6-ph-x5",
+     "en": "Remember! February has got 29 days in a leap year.",
+     "cz": "Pamatuj! Únor má v přestupném roce 29 dní.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u6-ph-x6",
+     "en": "I play outside every day except for Sunday.",
+     "cz": "Hraju si venku každý den kromě neděle.",
+     "pattern": "every day except for ___",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u6-ph-x7",
+     "en": "That's impossible! It's a joke.",
+     "cz": "To není možné! Je to vtip.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u6-ph-x8",
+     "en": "Send me a postcard from the sea!",
+     "cz": "Pošli mi pohlednici od moře!",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    }
+   ],
+   "schoolUnit": "Unit 6"
+  },
+  {
+   "id": "p2-jobs",
+   "code": "P2",
+   "title": "My project 2: Jobs",
+   "pages": "70-71",
+   "order": 9,
+   "words": [
+    {
+     "id": "p2-footballer",
+     "en": "footballer",
+     "cz": "fotbalista",
+     "pos": "noun",
+     "emoji": "⚽",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "He's a footballer.",
+       "cz": "On je fotbalista."
+      }
+     ]
+    },
+    {
+     "id": "p2-pilot",
+     "en": "pilot",
+     "cz": "pilot",
+     "pos": "noun",
+     "emoji": "🧑‍✈️",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "He's a pilot.",
+       "cz": "On je pilot."
+      }
+     ]
+    },
+    {
+     "id": "p2-doctor",
+     "en": "doctor",
+     "cz": "doktor, lékař",
+     "pos": "noun",
+     "emoji": "🧑‍⚕️",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "He's a doctor.",
+       "cz": "On je doktor."
+      }
+     ]
+    },
+    {
+     "id": "p2-vet",
+     "en": "vet",
+     "cz": "veterinář",
+     "pos": "noun",
+     "emoji": "🐾",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "He's a vet.",
+       "cz": "On je veterinář."
+      }
+     ]
+    },
+    {
+     "id": "p2-dancer",
+     "en": "dancer",
+     "cz": "tanečnice, tanečník",
+     "pos": "noun",
+     "emoji": "🩰",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "He's a dancer.",
+       "cz": "On je tanečnice."
+      }
+     ]
+    },
+    {
+     "id": "p2-teacher",
+     "en": "teacher",
+     "cz": "učitel",
+     "pos": "noun",
+     "emoji": "🧑‍🏫",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "He's a teacher.",
+       "cz": "On je učitel."
+      }
+     ]
+    },
+    {
+     "id": "p2-firefighter",
+     "en": "firefighter",
+     "cz": "hasič",
+     "pos": "noun",
+     "emoji": "🧑‍🚒",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "A firefighter puts out fires.",
+       "cz": "Hasič hasí požáry."
+      }
+     ]
+    },
+    {
+     "id": "p2-artist",
+     "en": "artist",
+     "cz": "malíř, umělec",
+     "pos": "noun",
+     "emoji": "🎨",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "He's an artist.",
+       "cz": "On je malíř."
+      }
+     ]
+    },
+    {
+     "id": "p2-chef",
+     "en": "chef",
+     "cz": "kuchař",
+     "pos": "noun",
+     "emoji": "🧑‍🍳",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "He's a chef.",
+       "cz": "On je kuchař."
+      }
+     ]
+    },
+    {
+     "id": "p2-police-officer",
+     "en": "police officer",
+     "cz": "policista",
+     "pos": "noun",
+     "emoji": "👮",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "He's a police officer.",
+       "cz": "On je policista."
+      }
+     ]
+    },
+    {
+     "id": "p2-job",
+     "en": "job",
+     "cz": "povolání, práce",
+     "pos": "noun",
+     "emoji": "💼",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "What's your job?",
+       "cz": "Jaká je tvoje práce?"
+      }
+     ]
+    },
+    {
+     "id": "p2-uniform",
+     "en": "uniform",
+     "cz": "uniforma",
+     "pos": "noun",
+     "emoji": null,
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "A police officer wears a uniform.",
+       "cz": "Policista nosí uniformu."
+      }
+     ]
+    },
+    {
+     "id": "p2-helmet",
+     "en": "helmet",
+     "cz": "helma",
+     "pos": "noun",
+     "emoji": "⛑️",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "A firefighter wears a helmet.",
+       "cz": "Hasič nosí helmu."
+      }
+     ]
+    },
+    {
+     "id": "p2-white-coat",
+     "en": "white coat",
+     "cz": "bílý plášť",
+     "pos": "noun",
+     "emoji": "🥼",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "A doctor wears a white coat.",
+       "cz": "Doktor nosí bílý plášť."
+      }
+     ]
+    },
+    {
+     "id": "p2-boots",
+     "en": "boots",
+     "cz": "holínky, vysoké boty (mn. č.)",
+     "pos": "noun",
+     "emoji": "🥾",
+     "lesson": 1,
+     "plural": true,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Firefighters wear boots.",
+       "cz": "Hasiči nosí boty."
+      }
+     ]
+    }
+   ],
+   "phrases": [
+    {
+     "id": "p2-ph-a-doctor-helps",
+     "en": "A doctor helps people.",
+     "cz": "Doktor pomáhá lidem.",
+     "pattern": "A ___ helps ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "p2-ph-a-pilot-flies",
+     "en": "A pilot flies a plane.",
+     "cz": "Pilot řídí letadlo.",
+     "pattern": "A ___ flies/puts out/teaches ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "p2-ph-teacher-vet",
+     "en": "A teacher teaches children. A vet helps animals.",
+     "cz": "Učitel učí děti. Veterinář pomáhá zvířatům.",
+     "pattern": "A ___ ___s ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "p2-ph-police-firefighter",
+     "en": "A police officer wears a uniform. A firefighter puts out fires.",
+     "cz": "Policista nosí uniformu. Hasič hasí požáry.",
+     "pattern": "A ___ wears ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "p2-ph-shes-a-vet",
+     "en": "She's a vet. She wears a white coat. She helps animals.",
+     "cz": "Je veterinářka. Nosí bílý plášť. Pomáhá zvířatům.",
+     "pattern": "She's/He's a ___. She/He wears ___. She/He ___s ___.",
+     "core": true,
+     "source": "book"
+    }
+   ],
+   "schoolUnit": null
+  },
+  {
+   "id": "u7-my-house",
+   "code": "7",
+   "title": "My house",
+   "pages": "72-81",
+   "order": 10,
+   "words": [
+    {
+     "id": "u7-flat",
+     "en": "flat",
+     "cz": "byt",
+     "pos": "noun",
+     "emoji": "🏢",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "There's a clock in the flat.",
+       "cz": "V bytě jsou hodiny."
+      }
+     ]
+    },
+    {
+     "id": "u7-house",
+     "en": "house",
+     "cz": "dům",
+     "pos": "noun",
+     "emoji": "🏠",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "There's a clock in the house.",
+       "cz": "V domě jsou hodiny."
+      }
+     ]
+    },
+    {
+     "id": "u7-living-room",
+     "en": "living room",
+     "cz": "obývací pokoj",
+     "pos": "noun",
+     "emoji": "🛋️",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "There's a clock in the living room.",
+       "cz": "V obývacím pokoji jsou hodiny."
+      }
+     ]
+    },
+    {
+     "id": "u7-kitchen",
+     "en": "kitchen",
+     "cz": "kuchyně",
+     "pos": "noun",
+     "emoji": "🍳",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "There's a clock in the kitchen.",
+       "cz": "V kuchyni jsou hodiny."
+      }
+     ]
+    },
+    {
+     "id": "u7-bathroom",
+     "en": "bathroom",
+     "cz": "koupelna",
+     "pos": "noun",
+     "emoji": "🛁",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "There's a clock in the bathroom.",
+       "cz": "V koupelně jsou hodiny."
+      }
+     ]
+    },
+    {
+     "id": "u7-bedroom",
+     "en": "bedroom",
+     "cz": "ložnice",
+     "pos": "noun",
+     "emoji": "🛏️",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "There's a clock in the bedroom.",
+       "cz": "V ložnici jsou hodiny."
+      }
+     ]
+    },
+    {
+     "id": "u7-dining-room",
+     "en": "dining room",
+     "cz": "jídelna",
+     "pos": "noun",
+     "emoji": "🍽️",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "There's a clock in the dining room.",
+       "cz": "V jídelně jsou hodiny."
+      }
+     ]
+    },
+    {
+     "id": "u7-hall",
+     "en": "hall",
+     "cz": "předsíň",
+     "pos": "noun",
+     "emoji": "🚪",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "There's a clock in the hall.",
+       "cz": "V předsíni jsou hodiny."
+      }
+     ]
+    },
+    {
+     "id": "u7-garden",
+     "en": "garden",
+     "cz": "zahrada",
+     "pos": "noun",
+     "emoji": "🌻",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "There are flowers in the garden.",
+       "cz": "Na zahradě jsou květiny."
+      }
+     ]
+    },
+    {
+     "id": "u7-garage",
+     "en": "garage",
+     "cz": "garáž",
+     "pos": "noun",
+     "emoji": "🚗",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "There's a clock in the garage.",
+       "cz": "V garáži jsou hodiny."
+      }
+     ]
+    },
+    {
+     "id": "u7-water",
+     "en": "water",
+     "cz": "zalévat",
+     "pos": "verb",
+     "emoji": "🚿",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Water the plants, please.",
+       "cz": "Zalij kytky, prosím."
+      }
+     ]
+    },
+    {
+     "id": "u7-shut",
+     "en": "shut",
+     "cz": "zavřít",
+     "pos": "verb",
+     "emoji": "🚪",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Shut the window!",
+       "cz": "Zavři okno!"
+      }
+     ]
+    },
+    {
+     "id": "u7-haunted-house",
+     "en": "haunted house",
+     "cz": "strašidelný dům",
+     "pos": "noun",
+     "emoji": "🏚️",
+     "lesson": 3,
+     "core": true,
+     "source": "school+book",
+     "bookForm": "haunted",
+     "examples": [
+      {
+       "en": "There's a haunted house at the funfair.",
+       "cz": "Na pouti je strašidelný dům."
+      }
+     ]
+    },
+    {
+     "id": "u7-funfair",
+     "en": "funfair",
+     "cz": "pouť",
+     "pos": "noun",
+     "emoji": "🎡",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Let's go to the funfair!",
+       "cz": "Pojďme na pouť!"
+      }
+     ]
+    },
+    {
+     "id": "u7-ghosts",
+     "en": "ghosts",
+     "cz": "duchové",
+     "pos": "noun",
+     "emoji": "👻",
+     "core": true,
+     "source": "school",
+     "plural": true,
+     "examples": [
+      {
+       "en": "There are ghosts in the hall!",
+       "cz": "V předsíni jsou duchové!"
+      }
+     ]
+    },
+    {
+     "id": "u7-witches",
+     "en": "witches",
+     "cz": "čarodějnice",
+     "pos": "noun",
+     "emoji": "🧙",
+     "core": true,
+     "source": "school",
+     "plural": true,
+     "examples": [
+      {
+       "en": "Two witches are in the kitchen.",
+       "cz": "V kuchyni jsou dvě čarodějnice."
+      }
+     ]
+    },
+    {
+     "id": "u7-skeletons",
+     "en": "skeletons",
+     "cz": "kostry",
+     "pos": "noun",
+     "emoji": "💀",
+     "lesson": 3,
+     "core": true,
+     "source": "school+book",
+     "bookForm": "skeleton",
+     "examples": [
+      {
+       "en": "There aren't any skeletons.",
+       "cz": "Nejsou tam žádné kostry."
+      }
+     ]
+    },
+    {
+     "id": "u7-scared",
+     "en": "scared",
+     "cz": "vystrašený",
+     "pos": "adj",
+     "emoji": "😨",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "I'm scared!",
+       "cz": "Bojím se!"
+      }
+     ]
+    },
+    {
+     "id": "u7-armchair",
+     "en": "armchair",
+     "cz": "křeslo",
+     "pos": "noun",
+     "emoji": "🪑",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The cat is on the armchair.",
+       "cz": "Kočka je na křesle."
+      }
+     ]
+    },
+    {
+     "id": "u7-clock",
+     "en": "clock",
+     "cz": "hodiny",
+     "pos": "noun",
+     "emoji": "🕰️",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Whose is this clock?",
+       "cz": "Čí jsou tyhle hodiny?"
+      }
+     ]
+    },
+    {
+     "id": "u7-radio",
+     "en": "radio",
+     "cz": "rádio",
+     "pos": "noun",
+     "emoji": "📻",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Whose is this radio? It's hers.",
+       "cz": "Čí je tohle rádio? Její."
+      }
+     ]
+    },
+    {
+     "id": "u7-box",
+     "en": "box",
+     "cz": "krabice",
+     "pos": "noun",
+     "emoji": "📦",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Whose is this box?",
+       "cz": "Čí je tahle krabice?"
+      }
+     ]
+    },
+    {
+     "id": "u7-phone",
+     "en": "phone",
+     "cz": "telefon",
+     "pos": "noun",
+     "emoji": "📱",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Whose is this phone? It's yours.",
+       "cz": "Čí je tenhle telefon? Tvůj."
+      }
+     ]
+    },
+    {
+     "id": "u7-watch",
+     "en": "watch",
+     "cz": "hodinky",
+     "pos": "noun",
+     "emoji": "⌚",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Whose is this watch? It's mine.",
+       "cz": "Čí jsou tyhle hodinky? Moje."
+      }
+     ]
+    },
+    {
+     "id": "u7-whose",
+     "en": "Whose?",
+     "cz": "Čí?",
+     "pos": "chunk",
+     "emoji": "❓",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Whose is this phone?",
+       "cz": "Čí je tenhle telefon?"
+      }
+     ]
+    },
+    {
+     "id": "u7-hers",
+     "en": "hers",
+     "cz": "její",
+     "pos": "pron",
+     "emoji": null,
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "It's hers.",
+       "cz": "Je to její."
+      }
+     ]
+    },
+    {
+     "id": "u7-yours",
+     "en": "yours",
+     "cz": "tvoje",
+     "pos": "pron",
+     "emoji": null,
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Is it yours?",
+       "cz": "Je to tvoje?"
+      }
+     ]
+    },
+    {
+     "id": "u7-mine",
+     "en": "mine",
+     "cz": "moje",
+     "pos": "pron",
+     "emoji": null,
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "It's mine.",
+       "cz": "Je to moje."
+      }
+     ]
+    },
+    {
+     "id": "u7-upstairs",
+     "en": "upstairs",
+     "cz": "nahoře v patře",
+     "pos": "adv",
+     "emoji": "⬆️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The bathroom is upstairs.",
+       "cz": "Koupelna je nahoře v patře."
+      }
+     ]
+    },
+    {
+     "id": "u7-sticker",
+     "en": "sticker",
+     "cz": "nálepka",
+     "pos": "noun",
+     "emoji": "🏷️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "I've got a new sticker.",
+       "cz": "Mám novou nálepku."
+      }
+     ]
+    },
+    {
+     "id": "u7-board-game",
+     "en": "board game",
+     "cz": "desková hra",
+     "pos": "noun",
+     "emoji": "🎲",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Let's play a board game!",
+       "cz": "Pojďme hrát deskovou hru!"
+      }
+     ]
+    },
+    {
+     "id": "u7-pumpkin",
+     "en": "pumpkin",
+     "cz": "dýně",
+     "pos": "noun",
+     "emoji": "🎃",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The pumpkin is on the table.",
+       "cz": "Dýně je na stole."
+      }
+     ]
+    },
+    {
+     "id": "u7-dragon",
+     "en": "dragon",
+     "cz": "drak",
+     "pos": "noun",
+     "emoji": "🐉",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "There's a dragon in the story.",
+       "cz": "V příběhu je drak."
+      }
+     ]
+    },
+    {
+     "id": "u7-mice",
+     "en": "mice",
+     "cz": "myši",
+     "pos": "noun",
+     "emoji": "🐭",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "There are mice in the garage!",
+       "cz": "V garáži jsou myši!"
+      }
+     ]
+    },
+    {
+     "id": "u7-fairy-godmother",
+     "en": "fairy godmother",
+     "cz": "kouzelná víla",
+     "pos": "noun",
+     "emoji": "🧚",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The fairy godmother helps Cinderella.",
+       "cz": "Kouzelná víla pomáhá Popelce."
+      }
+     ]
+    },
+    {
+     "id": "u7-wicked",
+     "en": "wicked",
+     "cz": "zlý",
+     "pos": "adj",
+     "emoji": "😈",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The wicked witch is scared.",
+       "cz": "Zlá čarodějnice se bojí."
+      }
+     ]
+    },
+    {
+     "id": "u7-sad",
+     "en": "sad",
+     "cz": "smutný",
+     "pos": "adj",
+     "emoji": "😢",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Why are you sad?",
+       "cz": "Proč jsi smutný?"
+      }
+     ]
+    },
+    {
+     "id": "u7-glass",
+     "en": "glass",
+     "cz": "sklo",
+     "pos": "noun",
+     "emoji": "🪟",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The shoe is made of glass.",
+       "cz": "Střevíček je ze skla."
+      }
+     ]
+    },
+    {
+     "id": "u7-midnight",
+     "en": "midnight",
+     "cz": "půlnoc",
+     "pos": "noun",
+     "emoji": "🕛",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "At midnight the magic ends.",
+       "cz": "O půlnoci kouzlo končí."
+      }
+     ]
+    },
+    {
+     "id": "u7-fall-off",
+     "en": "fall off",
+     "cz": "spadnout",
+     "pos": "verb",
+     "emoji": "🤸",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Don't fall off the chair!",
+       "cz": "Nespadni ze židle!"
+      }
+     ]
+    },
+    {
+     "id": "u7-camera",
+     "en": "camera",
+     "cz": "foťák",
+     "pos": "noun",
+     "emoji": "📷",
+     "lesson": 4,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Whose is this camera? It's mine.",
+       "cz": "Čí je tenhle fotoaparát? Můj."
+      }
+     ]
+    },
+    {
+     "id": "u7-mouse",
+     "en": "mouse",
+     "cz": "myš",
+     "pos": "noun",
+     "emoji": "🐭",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "There's a mouse in the kitchen!",
+       "cz": "V kuchyni je myš!"
+      }
+     ]
+    }
+   ],
+   "phrases": [
+    {
+     "id": "u7-ph-theres-a",
+     "en": "There's a hall. / There isn't a hall.",
+     "cz": "Je tam chodba. / Není tam chodba.",
+     "pattern": "There's a ___. / There isn't a ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u7-ph-there-are",
+     "en": "There are plants. / There aren't any plants.",
+     "cz": "Jsou tam rostliny. / Nejsou tam žádné rostliny.",
+     "pattern": "There are ___. / There aren't any ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u7-ph-haunted-bedroom",
+     "en": "There's a haunted bedroom. There aren't any skeletons.",
+     "cz": "Je tam strašidelná ložnice. Nejsou tam žádní kostlivci.",
+     "pattern": "There's a ___. There aren't any ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u7-ph-whose-is-this",
+     "en": "Whose is this watch? It's mine. / It's yours. / It's his. / It's hers.",
+     "cz": "Čí jsou tyhle hodinky? Jsou moje. / Jsou tvoje. / Jsou jeho. / Jsou její.",
+     "pattern": "Whose is this ___? It's mine / yours / his / hers.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u7-ph-what-a-mess",
+     "en": "What a mess! Whose is this? Is it his?",
+     "cz": "To je ale nepořádek! Čí to je? Je to jeho?",
+     "pattern": "Whose is this? Is it ___?",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u7-ph-theres-a-in-the",
+     "en": "There's a mouse in the bedroom.",
+     "cz": "V ložnici je myš.",
+     "pattern": "There's a ___ in the ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u7-ph-x1",
+     "en": "There's a clock in the kitchen.",
+     "cz": "V kuchyni jsou hodiny.",
+     "pattern": "There's a ___ in the ___.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u7-ph-x2",
+     "en": "There aren't any ghosts in the bathroom.",
+     "cz": "V koupelně nejsou žádní duchové.",
+     "pattern": "There aren't any ___.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u7-ph-x3",
+     "en": "Whose is this watch? It's mine.",
+     "cz": "Čí jsou tyhle hodinky? Moje.",
+     "pattern": "Whose is this ___?",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u7-ph-x4",
+     "en": "Is it yours? No, it's hers.",
+     "cz": "Je to tvoje? Ne, je to její.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u7-ph-x5",
+     "en": "Shut the door! I'm scared!",
+     "cz": "Zavři dveře! Bojím se!",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u7-ph-x6",
+     "en": "The bedroom is upstairs.",
+     "cz": "Ložnice je nahoře v patře.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u7-ph-x7",
+     "en": "Water the garden, please.",
+     "cz": "Zalij zahradu, prosím.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u7-ph-x8",
+     "en": "At midnight the pumpkin falls off the table.",
+     "cz": "O půlnoci dýně spadne ze stolu.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    }
+   ],
+   "schoolUnit": "Unit 7"
+  },
+  {
+   "id": "u8-all-around-the-town",
+   "code": "8",
+   "title": "All around the town",
+   "pages": "82-91",
+   "order": 11,
+   "words": [
+    {
+     "id": "u8-bakers",
+     "en": "baker's",
+     "cz": "pekárna",
+     "pos": "noun",
+     "emoji": "🥖",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Is there a baker's near here?",
+       "cz": "Je tady blízko pekárna?"
+      }
+     ]
+    },
+    {
+     "id": "u8-fire-station",
+     "en": "fire station",
+     "cz": "hasičská stanice",
+     "pos": "noun",
+     "emoji": "🚒",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Turn right at the fire station.",
+       "cz": "U hasičské stanice zaboč doprava."
+      }
+     ]
+    },
+    {
+     "id": "u8-police-station",
+     "en": "police station",
+     "cz": "policejní stanice",
+     "pos": "noun",
+     "emoji": "🚓",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Where's the police station?",
+       "cz": "Kde je policejní stanice?"
+      }
+     ]
+    },
+    {
+     "id": "u8-car-park",
+     "en": "car park",
+     "cz": "parkoviště",
+     "pos": "noun",
+     "emoji": "🅿️",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "The car park is next to the bank.",
+       "cz": "Parkoviště je vedle banky."
+      }
+     ]
+    },
+    {
+     "id": "u8-bank",
+     "en": "bank",
+     "cz": "banka",
+     "pos": "noun",
+     "emoji": "🏦",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "How do I get to the bank?",
+       "cz": "Jak se dostanu k bance?"
+      }
+     ]
+    },
+    {
+     "id": "u8-post-office",
+     "en": "post office",
+     "cz": "pošta",
+     "pos": "noun",
+     "emoji": "📮",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Go straight on to the post office.",
+       "cz": "Jdi rovně k poště."
+      }
+     ]
+    },
+    {
+     "id": "u8-chemists",
+     "en": "chemist's",
+     "cz": "drogerie, lékárna",
+     "pos": "noun",
+     "emoji": "💊",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "The chemist's is on the left.",
+       "cz": "Drogerie je nalevo."
+      }
+     ]
+    },
+    {
+     "id": "u8-bus-station",
+     "en": "bus station",
+     "cz": "autobusové nádraží",
+     "pos": "noun",
+     "emoji": "🚌",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Is there a bus station in the town?",
+       "cz": "Je ve městě autobusové nádraží?"
+      }
+     ]
+    },
+    {
+     "id": "u8-train-station",
+     "en": "train station",
+     "cz": "vlakové nádraží",
+     "pos": "noun",
+     "emoji": "🚉",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Turn left at the train station.",
+       "cz": "U vlakového nádraží zaboč doleva."
+      }
+     ]
+    },
+    {
+     "id": "u8-museum",
+     "en": "museum",
+     "cz": "muzeum",
+     "pos": "noun",
+     "emoji": "🏛️",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Where's the museum?",
+       "cz": "Kde je muzeum?"
+      }
+     ]
+    },
+    {
+     "id": "u8-its-dark",
+     "en": "it's dark",
+     "cz": "je tma",
+     "pos": "chunk",
+     "emoji": "🌑",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "It's dark in the cave.",
+       "cz": "V jeskyni je tma."
+      }
+     ]
+    },
+    {
+     "id": "u8-turn",
+     "en": "turn",
+     "cz": "zaboč",
+     "pos": "verb",
+     "emoji": "↪️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Turn left.",
+       "cz": "Zaboč doleva."
+      }
+     ]
+    },
+    {
+     "id": "u8-left",
+     "en": "left",
+     "cz": "doleva",
+     "pos": "adv",
+     "emoji": "⬅️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Turn left at the bank.",
+       "cz": "U banky zaboč doleva."
+      }
+     ]
+    },
+    {
+     "id": "u8-right",
+     "en": "right",
+     "cz": "doprava",
+     "pos": "adv",
+     "emoji": "➡️",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "bookForm": "turn right",
+     "examples": [
+      {
+       "en": "Turn right.",
+       "cz": "Zaboč doprava."
+      }
+     ]
+    },
+    {
+     "id": "u8-go-straight-on",
+     "en": "go straight on",
+     "cz": "jdi rovně",
+     "pos": "chunk",
+     "emoji": "⬆️",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Go straight on to the museum.",
+       "cz": "Jdi rovně k muzeu."
+      }
+     ]
+    },
+    {
+     "id": "u8-how-do-i-get-to",
+     "en": "How do I get to…?",
+     "cz": "Jak se dostanu k…?",
+     "pos": "chunk",
+     "emoji": "❓",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "How do I get to the post office?",
+       "cz": "Jak se dostanu na poštu?"
+      }
+     ]
+    },
+    {
+     "id": "u8-people",
+     "en": "people",
+     "cz": "lidé",
+     "pos": "noun",
+     "emoji": "👥",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Lots of people are in the park.",
+       "cz": "V parku je hodně lidí."
+      }
+     ]
+    },
+    {
+     "id": "u8-firefighter",
+     "en": "firefighter",
+     "cz": "hasič",
+     "pos": "noun",
+     "emoji": "🧑‍🚒",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "A firefighter puts out fires.",
+       "cz": "Hasič hasí požáry."
+      }
+     ]
+    },
+    {
+     "id": "u8-drive",
+     "en": "drive",
+     "cz": "řídit",
+     "pos": "verb",
+     "emoji": "🚗",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "My dad drives a car.",
+       "cz": "Táta řídí auto."
+      }
+     ]
+    },
+    {
+     "id": "u8-loud",
+     "en": "loud",
+     "cz": "hlasitý",
+     "pos": "adj",
+     "emoji": "🔊",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The music is loud.",
+       "cz": "Hudba je hlasitá."
+      }
+     ]
+    },
+    {
+     "id": "u8-a-date",
+     "en": "a date",
+     "cz": "datum",
+     "pos": "noun",
+     "emoji": "📅",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "What's the date today?",
+       "cz": "Kolikátého je dnes?"
+      }
+     ]
+    },
+    {
+     "id": "u8-cinema",
+     "en": "cinema",
+     "cz": "kino",
+     "pos": "noun",
+     "emoji": "🎬",
+     "lesson": 2,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Is there a cinema near here?",
+       "cz": "Je tady blízko kino?"
+      }
+     ]
+    },
+    {
+     "id": "u8-turn-left",
+     "en": "turn left",
+     "cz": "zahni doleva",
+     "pos": "verb",
+     "emoji": "⬅️",
+     "lesson": 4,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Turn left at the bank.",
+       "cz": "U banky zaboč doleva."
+      }
+     ]
+    },
+    {
+     "id": "u8-from-to",
+     "en": "from ... to ...",
+     "cz": "od ... k ... (odsud tam)",
+     "pos": "preposition",
+     "emoji": null,
+     "lesson": 4,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "How do I get from the bank to the museum?",
+       "cz": "Jak se dostanu od banky k muzeu?"
+      }
+     ]
+    },
+    {
+     "id": "u8-town",
+     "en": "town",
+     "cz": "město",
+     "pos": "noun",
+     "emoji": "🏘️",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I live in a small town.",
+       "cz": "Bydlím v malém městě."
+      }
+     ]
+    },
+    {
+     "id": "u8-directions",
+     "en": "directions",
+     "cz": "cesta, navigace (jak se někam dostat)",
+     "pos": "noun",
+     "emoji": "🧭",
+     "lesson": 4,
+     "plural": true,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Ask for directions.",
+       "cz": "Zeptej se na cestu."
+      }
+     ]
+    }
+   ],
+   "phrases": [
+    {
+     "id": "u8-ph-is-there-a",
+     "en": "Is there a cinema? Yes, there is. / No, there isn't.",
+     "cz": "Je tu kino? Ano, je. / Ne, není.",
+     "pattern": "Is there a ___? Yes, there is. / No, there isn't.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u8-ph-are-there-any",
+     "en": "Are there any museums? Yes, there are. / No, there aren't.",
+     "cz": "Jsou tu nějaká muzea? Ano, jsou. / Ne, nejsou.",
+     "pattern": "Are there any ___? Yes, there are. / No, there aren't.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u8-ph-near-here",
+     "en": "Is there a baker's near here?",
+     "cz": "Je tady poblíž pekařství?",
+     "pattern": "Is there a ___ near here?",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u8-ph-how-do-i-get-to",
+     "en": "How do I get to the post office? Go straight on. Then turn right.",
+     "cz": "Jak se dostanu na poštu? Jdi rovně. Pak zahni doprava.",
+     "pattern": "How do I get to the ___? Go straight on. / Turn left. / Turn right.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u8-ph-wheres-the",
+     "en": "Where's the bank? Turn right.",
+     "cz": "Kde je banka? Zahni doprava.",
+     "pattern": "Where's the ___? Turn ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u8-ph-which-way",
+     "en": "Which way do I go? How do I get from here to there?",
+     "cz": "Kudy mám jít? Jak se dostanu odsud tam?",
+     "pattern": "How do I get from ___ to ___?",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u8-ph-x1",
+     "en": "How do I get to the bank? Go straight on.",
+     "cz": "Jak se dostanu k bance? Jdi rovně.",
+     "pattern": "How do I get to the ___?",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u8-ph-x2",
+     "en": "Turn left at the post office.",
+     "cz": "U pošty zaboč doleva.",
+     "pattern": "Turn left/right at the ___.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u8-ph-x3",
+     "en": "Is there a baker's near here? Yes, there is.",
+     "cz": "Je tady blízko pekárna? Ano, je.",
+     "pattern": "Is there a ___ near here?",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u8-ph-x4",
+     "en": "Where's the museum? It's next to the car park.",
+     "cz": "Kde je muzeum? Vedle parkoviště.",
+     "pattern": "Where's the ___?",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u8-ph-x5",
+     "en": "The firefighter drives to the fire station.",
+     "cz": "Hasič jede k hasičské stanici.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u8-ph-x6",
+     "en": "It's dark and the music is loud.",
+     "cz": "Je tma a hudba je hlasitá.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u8-ph-x7",
+     "en": "Lots of people are at the train station.",
+     "cz": "Na vlakovém nádraží je hodně lidí.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u8-ph-x8",
+     "en": "What's the date today?",
+     "cz": "Kolikátého je dnes?",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    }
+   ],
+   "schoolUnit": "Unit 8"
+  },
+  {
+   "id": "u9-holiday-fun",
+   "code": "9",
+   "title": "Holiday fun",
+   "pages": "92-101",
+   "order": 12,
+   "words": [
+    {
+     "id": "u9-lots-of",
+     "en": "lots of",
+     "cz": "hodně",
+     "pos": "chunk",
+     "emoji": "🔢",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Lots of people are here.",
+       "cz": "Je tady hodně lidí."
+      }
+     ]
+    },
+    {
+     "id": "u9-castle",
+     "en": "castle",
+     "cz": "hrad",
+     "pos": "noun",
+     "emoji": "🏰",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "I was at the castle yesterday.",
+       "cz": "Včera jsem byl na hradě."
+      }
+     ]
+    },
+    {
+     "id": "u9-circus",
+     "en": "circus",
+     "cz": "cirkus",
+     "pos": "noun",
+     "emoji": "🎪",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "We were at the circus.",
+       "cz": "Byli jsme v cirkuse."
+      }
+     ]
+    },
+    {
+     "id": "u9-science-museum",
+     "en": "science museum",
+     "cz": "vědecké muzeum",
+     "pos": "noun",
+     "emoji": "🔬",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "I was at the science museum.",
+       "cz": "Byl jsem ve vědeckém muzeu."
+      }
+     ]
+    },
+    {
+     "id": "u9-funfair",
+     "en": "funfair",
+     "cz": "pouť",
+     "pos": "noun",
+     "emoji": "🎡",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Let's go to the funfair!",
+       "cz": "Pojďme na pouť!"
+      }
+     ]
+    },
+    {
+     "id": "u9-chocolate-factory",
+     "en": "chocolate factory",
+     "cz": "továrna na čokoládu",
+     "pos": "noun",
+     "emoji": "🍫",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "We were at the chocolate factory.",
+       "cz": "Byli jsme v továrně na čokoládu."
+      }
+     ]
+    },
+    {
+     "id": "u9-aquarium",
+     "en": "aquarium",
+     "cz": "akvárium",
+     "pos": "noun",
+     "emoji": "🐠",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "I was at the aquarium yesterday.",
+       "cz": "Včera jsem byl v akváriu."
+      }
+     ]
+    },
+    {
+     "id": "u9-sports-centre",
+     "en": "sports centre",
+     "cz": "sportovní centrum",
+     "pos": "noun",
+     "emoji": "🏟️",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Where were you? At the sports centre.",
+       "cz": "Kde jsi byl? Ve sportovním centru."
+      }
+     ]
+    },
+    {
+     "id": "u9-safari-park",
+     "en": "safari park",
+     "cz": "safari park",
+     "pos": "noun",
+     "emoji": "🦓",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "I was at the safari park.",
+       "cz": "Byl jsem v safari parku."
+      }
+     ]
+    },
+    {
+     "id": "u9-theatre",
+     "en": "theatre",
+     "cz": "divadlo",
+     "pos": "noun",
+     "emoji": "🎭",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "We were at the theatre.",
+       "cz": "Byli jsme v divadle."
+      }
+     ]
+    },
+    {
+     "id": "u9-where-were-you",
+     "en": "Where were you?",
+     "cz": "Kde jsi byl?",
+     "pos": "chunk",
+     "emoji": "❓",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Where were you yesterday?",
+       "cz": "Kde jsi byl včera?"
+      }
+     ]
+    },
+    {
+     "id": "u9-i-was",
+     "en": "I was",
+     "cz": "já jsem byl",
+     "pos": "chunk",
+     "emoji": "🕰️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "I was at the circus.",
+       "cz": "Byl jsem v cirkuse."
+      }
+     ]
+    },
+    {
+     "id": "u9-yesterday",
+     "en": "yesterday",
+     "cz": "včera",
+     "pos": "adv",
+     "emoji": "⏪",
+     "lesson": 2,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Where were you yesterday?",
+       "cz": "Kde jsi byl včera?"
+      }
+     ]
+    },
+    {
+     "id": "u9-bored",
+     "en": "bored",
+     "cz": "znuděný",
+     "pos": "adj",
+     "emoji": "🥱",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "I was bored.",
+       "cz": "Nudil jsem se."
+      }
+     ]
+    },
+    {
+     "id": "u9-water-park",
+     "en": "water park",
+     "cz": "vodní park",
+     "pos": "noun",
+     "emoji": "🏊",
+     "lesson": 1,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Were you at the water park?",
+       "cz": "Byl jsi ve vodním parku?"
+      }
+     ]
+    },
+    {
+     "id": "u9-fly",
+     "en": "fly",
+     "cz": "letět",
+     "pos": "verb",
+     "emoji": "✈️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Butterflies fly in the garden.",
+       "cz": "Motýli létají na zahradě."
+      }
+     ]
+    },
+    {
+     "id": "u9-man",
+     "en": "man",
+     "cz": "muž",
+     "pos": "noun",
+     "emoji": "👨",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Who's that man?",
+       "cz": "Kdo je ten muž?"
+      }
+     ]
+    },
+    {
+     "id": "u9-men",
+     "en": "men",
+     "cz": "muži",
+     "pos": "noun",
+     "emoji": "👨‍👨‍👦",
+     "lesson": 4,
+     "plural": true,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Those men are firefighters.",
+       "cz": "Ti muži jsou hasiči."
+      }
+     ]
+    },
+    {
+     "id": "u9-woman",
+     "en": "woman",
+     "cz": "žena",
+     "pos": "noun",
+     "emoji": "👩",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "That woman is my aunt.",
+       "cz": "Ta žena je moje teta."
+      }
+     ]
+    },
+    {
+     "id": "u9-women",
+     "en": "women",
+     "cz": "ženy",
+     "pos": "noun",
+     "emoji": "👩‍👩‍👧",
+     "lesson": 4,
+     "plural": true,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "The women are at the theatre.",
+       "cz": "Ty ženy jsou v divadle."
+      }
+     ]
+    },
+    {
+     "id": "u9-child",
+     "en": "child",
+     "cz": "dítě",
+     "pos": "noun",
+     "emoji": "🧒",
+     "lesson": 4,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "The child is bored.",
+       "cz": "To dítě se nudí."
+      }
+     ]
+    },
+    {
+     "id": "u9-children",
+     "en": "children",
+     "cz": "děti",
+     "pos": "noun",
+     "emoji": "👧👦",
+     "lesson": 4,
+     "plural": true,
+     "core": true,
+     "source": "school+book",
+     "examples": [
+      {
+       "en": "Who are those children?",
+       "cz": "Kdo jsou ty děti?"
+      }
+     ]
+    },
+    {
+     "id": "u9-maze",
+     "en": "maze",
+     "cz": "bludiště",
+     "pos": "noun",
+     "emoji": "🌀",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "The children are in the maze.",
+       "cz": "Děti jsou v bludišti."
+      }
+     ]
+    },
+    {
+     "id": "u9-chess",
+     "en": "chess",
+     "cz": "šachy",
+     "pos": "noun",
+     "emoji": "♟️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Let's play chess!",
+       "cz": "Pojďme hrát šachy!"
+      }
+     ]
+    },
+    {
+     "id": "u9-butterfly",
+     "en": "butterfly",
+     "cz": "motýl",
+     "pos": "noun",
+     "emoji": "🦋",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Look! A butterfly!",
+       "cz": "Podívej! Motýl!"
+      }
+     ]
+    },
+    {
+     "id": "u9-ticket",
+     "en": "ticket",
+     "cz": "lístek",
+     "pos": "noun",
+     "emoji": "🎟️",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "Two tickets, please.",
+       "cz": "Dva lístky, prosím."
+      }
+     ]
+    },
+    {
+     "id": "u9-badge",
+     "en": "badge",
+     "cz": "odznak",
+     "pos": "noun",
+     "emoji": "🏅",
+     "core": true,
+     "source": "school",
+     "examples": [
+      {
+       "en": "I've got a new badge.",
+       "cz": "Mám nový odznak."
+      }
+     ]
+    },
+    {
+     "id": "u9-holiday",
+     "en": "holiday",
+     "cz": "prázdniny, dovolená",
+     "pos": "noun",
+     "emoji": "🏖️",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "We're on holiday.",
+       "cz": "Jsme na prázdninách."
+      }
+     ]
+    },
+    {
+     "id": "u9-aunt",
+     "en": "aunt",
+     "cz": "teta",
+     "pos": "noun",
+     "emoji": null,
+     "lesson": 4,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "She's my aunt.",
+       "cz": "To je moje teta."
+      }
+     ]
+    },
+    {
+     "id": "u9-uncle",
+     "en": "uncle",
+     "cz": "strýc",
+     "pos": "noun",
+     "emoji": null,
+     "lesson": 6,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "He's my uncle.",
+       "cz": "To je můj strýc."
+      }
+     ]
+    },
+    {
+     "id": "u9-cousins",
+     "en": "cousins",
+     "cz": "bratranci a sestřenice (mn. č.)",
+     "pos": "noun",
+     "emoji": null,
+     "lesson": 4,
+     "plural": true,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "They're my cousins.",
+       "cz": "To jsou moji bratranci a sestřenice."
+      }
+     ]
+    }
+   ],
+   "phrases": [
+    {
+     "id": "u9-ph-where-were-you-i-was",
+     "en": "Where were you yesterday? I was at the circus.",
+     "cz": "Kde jsi byl včera? Byl jsem v cirkuse.",
+     "pattern": "Where were you yesterday? I was at the ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u9-ph-where-were-you-we-were",
+     "en": "Where were you? We were at a chocolate factory.",
+     "cz": "Kde jste byli? Byli jsme v továrně na čokoládu.",
+     "pattern": "Where were you? We were at ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u9-ph-whos-that",
+     "en": "Who's that woman? She's my aunt.",
+     "cz": "Kdo je ta žena? To je moje teta.",
+     "pattern": "Who's that ___? He's/She's my ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u9-ph-who-are-those",
+     "en": "Who are those children? They're my cousins.",
+     "cz": "Kdo jsou ty děti? To jsou moji bratranci.",
+     "pattern": "Who are those ___? They're my ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u9-ph-this-is-my",
+     "en": "This is my uncle. He was at the theatre.",
+     "cz": "Tohle je můj strýc. Byl v divadle.",
+     "pattern": "This is my ___. He/She was at the ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "u9-ph-x1",
+     "en": "Where were you yesterday? I was at the circus.",
+     "cz": "Kde jsi byl včera? Byl jsem v cirkuse.",
+     "pattern": "I was at the ___.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u9-ph-x2",
+     "en": "We were at the chocolate factory.",
+     "cz": "Byli jsme v továrně na čokoládu.",
+     "pattern": "We were at the ___.",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u9-ph-x3",
+     "en": "Was it fun? No, I was bored.",
+     "cz": "Byla to zábava? Ne, nudil jsem se.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u9-ph-x4",
+     "en": "Who's that man? He's my uncle.",
+     "cz": "Kdo je ten muž? Můj strýc.",
+     "pattern": "Who's that ___?",
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u9-ph-x5",
+     "en": "The children are in the maze.",
+     "cz": "Děti jsou v bludišti.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u9-ph-x6",
+     "en": "Lots of butterflies fly in the garden.",
+     "cz": "Na zahradě létá hodně motýlů.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u9-ph-x7",
+     "en": "Two tickets for the theatre, please.",
+     "cz": "Dva lístky do divadla, prosím.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    },
+    {
+     "id": "u9-ph-x8",
+     "en": "I've got a badge from the safari park.",
+     "cz": "Mám odznak ze safari parku.",
+     "pattern": null,
+     "core": true,
+     "source": "dialogue"
+    }
+   ],
+   "schoolUnit": "Unit 9"
+  },
+  {
+   "id": "p3-time",
+   "code": "P3",
+   "title": "My project 3: Time",
+   "pages": "102-103",
+   "order": 13,
+   "words": [
+    {
+     "id": "p3-oclock",
+     "en": "o'clock",
+     "cz": "celá (hodina), např. eight o'clock = osm hodin",
+     "pos": "noun",
+     "emoji": "🕗",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "It's eight o'clock.",
+       "cz": "Je osm hodin."
+      }
+     ]
+    },
+    {
+     "id": "p3-half-past",
+     "en": "half past",
+     "cz": "půl (half past seven = půl osmé)",
+     "pos": "noun",
+     "emoji": "🕢",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "It's half past seven.",
+       "cz": "Je půl osmé."
+      }
+     ]
+    },
+    {
+     "id": "p3-a-quarter-past",
+     "en": "a quarter past",
+     "cz": "čtvrt (a quarter past eight = čtvrt na devět)",
+     "pos": "noun",
+     "emoji": "🕗",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "It's a quarter past eight.",
+       "cz": "Je čtvrt na devět."
+      }
+     ]
+    },
+    {
+     "id": "p3-a-quarter-to",
+     "en": "a quarter to",
+     "cz": "tři čtvrtě (a quarter to nine = tři čtvrtě na devět)",
+     "pos": "noun",
+     "emoji": "🕣",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "It's a quarter to nine.",
+       "cz": "Je tři čtvrtě na devět."
+      }
+     ]
+    },
+    {
+     "id": "p3-clock",
+     "en": "clock",
+     "cz": "hodiny",
+     "pos": "noun",
+     "emoji": "🕰️",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Look at the clock. It's three o'clock.",
+       "cz": "Podívej na hodiny. Jsou tři hodiny."
+      }
+     ]
+    },
+    {
+     "id": "p3-get-up",
+     "en": "get up",
+     "cz": "vstávat",
+     "pos": "verb",
+     "emoji": "🛏️",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I get up at seven o'clock.",
+       "cz": "Vstávám v sedm hodin."
+      }
+     ]
+    },
+    {
+     "id": "p3-get-dressed",
+     "en": "get dressed",
+     "cz": "oblékat se",
+     "pos": "verb",
+     "emoji": "👕",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I get dressed quickly.",
+       "cz": "Rychle se oblékám."
+      }
+     ]
+    },
+    {
+     "id": "p3-have-breakfast",
+     "en": "have breakfast",
+     "cz": "snídat",
+     "pos": "verb",
+     "emoji": "🥣",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I have breakfast at half past seven.",
+       "cz": "Snídám v půl osmé."
+      }
+     ]
+    },
+    {
+     "id": "p3-go-to-school",
+     "en": "go to school",
+     "cz": "jít do školy",
+     "pos": "verb",
+     "emoji": "🏫",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I go to school at eight o'clock.",
+       "cz": "Do školy jdu v osm hodin."
+      }
+     ]
+    },
+    {
+     "id": "p3-play",
+     "en": "play",
+     "cz": "hrát si",
+     "pos": "verb",
+     "emoji": "🎲",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I play after school.",
+       "cz": "Po škole si hraju."
+      }
+     ]
+    },
+    {
+     "id": "p3-go-to-bed",
+     "en": "go to bed",
+     "cz": "jít spát",
+     "pos": "verb",
+     "emoji": "🛌",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I go to bed at nine o'clock.",
+       "cz": "Jdu spát v devět hodin."
+      }
+     ]
+    },
+    {
+     "id": "p3-daily-routine",
+     "en": "daily routine",
+     "cz": "denní režim",
+     "pos": "noun",
+     "emoji": "📆",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "This is my daily routine.",
+       "cz": "Tohle je můj denní režim."
+      }
+     ]
+    }
+   ],
+   "phrases": [
+    {
+     "id": "p3-ph-its-oclock",
+     "en": "It's eight o'clock.",
+     "cz": "Je osm hodin.",
+     "pattern": "It's ___ o'clock.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "p3-ph-its-half-quarter",
+     "en": "It's half past seven. / It's a quarter past eight. / It's a quarter to nine.",
+     "cz": "Je půl osmé. / Je čtvrt na devět. / Je tři čtvrtě na devět.",
+     "pattern": "It's half past ___. / It's a quarter past ___. / It's a quarter to ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "p3-ph-i-get-up-at",
+     "en": "I get up at half past seven.",
+     "cz": "Vstávám v půl osmé.",
+     "pattern": "I ___ at ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "p3-ph-i-go-to-at",
+     "en": "I go to school at nine o'clock. I go to bed at half past nine.",
+     "cz": "Do školy jdu v devět hodin. Spát jdu v půl desáté.",
+     "pattern": "I go to ___ at ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "p3-ph-its-number-my-turn",
+     "en": "It's a quarter to nine. It's number four. It's my turn.",
+     "cz": "Je tři čtvrtě na devět. Je to číslo čtyři. Jsem na řadě.",
+     "pattern": "It's number ___. It's my turn.",
+     "core": true,
+     "source": "book"
+    }
+   ],
+   "schoolUnit": null
+  },
+  {
+   "id": "fest-harvest",
+   "code": "F1",
+   "title": "Festivals: Harvest Festival",
+   "pages": "104",
+   "order": 14,
+   "words": [
+    {
+     "id": "f1-harvest-festival",
+     "en": "Harvest Festival",
+     "cz": "dožínky (slavnost sklizně)",
+     "pos": "noun",
+     "emoji": "🌾",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "We celebrate Harvest Festival in autumn.",
+       "cz": "Dožínky slavíme na podzim."
+      }
+     ]
+    },
+    {
+     "id": "f1-harvest",
+     "en": "harvest",
+     "cz": "sklizeň, úroda",
+     "pos": "noun",
+     "emoji": "🌾",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "The harvest is in autumn.",
+       "cz": "Sklizeň je na podzim."
+      }
+     ]
+    },
+    {
+     "id": "f1-basket",
+     "en": "basket",
+     "cz": "košík",
+     "pos": "noun",
+     "emoji": "🧺",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "A basket of fruit.",
+       "cz": "Košík ovoce."
+      }
+     ]
+    },
+    {
+     "id": "f1-fruit",
+     "en": "fruit",
+     "cz": "ovoce",
+     "pos": "noun",
+     "emoji": "🍎",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I like fruit.",
+       "cz": "Mám rád ovoce."
+      }
+     ]
+    },
+    {
+     "id": "f1-vegetables",
+     "en": "vegetables",
+     "cz": "zelenina (mn. č.)",
+     "pos": "noun",
+     "emoji": "🥦",
+     "lesson": 1,
+     "plural": true,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Eat your vegetables!",
+       "cz": "Sněz zeleninu!"
+      }
+     ]
+    },
+    {
+     "id": "f1-moon",
+     "en": "moon",
+     "cz": "měsíc (na obloze)",
+     "pos": "noun",
+     "emoji": "🌕",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Look at the moon!",
+       "cz": "Podívej na měsíc!"
+      }
+     ]
+    },
+    {
+     "id": "f1-autumn",
+     "en": "autumn",
+     "cz": "podzim",
+     "pos": "noun",
+     "emoji": "🍂",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "My favourite season is autumn.",
+       "cz": "Moje oblíbené roční období je podzim."
+      }
+     ]
+    },
+    {
+     "id": "f1-grow",
+     "en": "grow",
+     "cz": "růst",
+     "pos": "verb",
+     "emoji": "🌱",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Apples grow on trees.",
+       "cz": "Jablka rostou na stromech."
+      }
+     ]
+    }
+   ],
+   "phrases": [
+    {
+     "id": "fest-harvest-ph-we-celebrate",
+     "en": "We celebrate Harvest Festival in autumn.",
+     "cz": "Dožínky slavíme na podzim.",
+     "pattern": "We celebrate ___ in ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "fest-harvest-ph-we-make",
+     "en": "We make big baskets of fruit and vegetables.",
+     "cz": "Děláme velké košíky s ovocem a zeleninou.",
+     "pattern": "We make ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "fest-harvest-ph-we-say-thank-you",
+     "en": "We say thank you for the food that grows in the ground.",
+     "cz": "Děkujeme za jídlo, které roste v zemi.",
+     "pattern": "We say thank you for ___.",
+     "core": true,
+     "source": "book"
+    }
+   ],
+   "schoolUnit": null
+  },
+  {
+   "id": "fest-carnival",
+   "code": "F2",
+   "title": "Festivals: Carnival",
+   "pages": "105",
+   "order": 15,
+   "words": [
+    {
+     "id": "f2-costume",
+     "en": "costume",
+     "cz": "kostým",
+     "pos": "noun",
+     "emoji": "🥳",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Put on your costume!",
+       "cz": "Obleč si kostým!"
+      }
+     ]
+    },
+    {
+     "id": "f2-wig",
+     "en": "wig",
+     "cz": "paruka",
+     "pos": "noun",
+     "emoji": null,
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I'm wearing a wig.",
+       "cz": "Mám na sobě paruku."
+      }
+     ]
+    },
+    {
+     "id": "f2-mask",
+     "en": "mask",
+     "cz": "maska",
+     "pos": "noun",
+     "emoji": "🎭",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "It's a scary mask.",
+       "cz": "Je to strašidelná maska."
+      }
+     ]
+    },
+    {
+     "id": "f2-cape",
+     "en": "cape",
+     "cz": "plášť (pláštěnka superhrdiny)",
+     "pos": "noun",
+     "emoji": "🦸",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Superheroes wear capes.",
+       "cz": "Superhrdinové nosí pláště."
+      }
+     ]
+    },
+    {
+     "id": "f2-parade",
+     "en": "parade",
+     "cz": "průvod",
+     "pos": "noun",
+     "emoji": "🎉",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Join the parade!",
+       "cz": "Přidej se k průvodu!"
+      }
+     ]
+    },
+    {
+     "id": "f2-hat",
+     "en": "hat",
+     "cz": "klobouk",
+     "pos": "noun",
+     "emoji": "🎩",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "Wear a hat!",
+       "cz": "Vezmi si klobouk!"
+      }
+     ]
+    },
+    {
+     "id": "f2-clown",
+     "en": "clown",
+     "cz": "klaun",
+     "pos": "noun",
+     "emoji": "🤡",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I'm a clown!",
+       "cz": "Jsem klaun!"
+      }
+     ]
+    },
+    {
+     "id": "f2-pirate",
+     "en": "pirate",
+     "cz": "pirát",
+     "pos": "noun",
+     "emoji": "🏴‍☠️",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "He's a pirate.",
+       "cz": "On je pirát."
+      }
+     ]
+    },
+    {
+     "id": "f2-superhero",
+     "en": "superhero",
+     "cz": "superhrdina",
+     "pos": "noun",
+     "emoji": "🦸",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "She's a superhero.",
+       "cz": "Ona je superhrdinka."
+      }
+     ]
+    },
+    {
+     "id": "f2-competition",
+     "en": "competition",
+     "cz": "soutěž",
+     "pos": "noun",
+     "emoji": "🏆",
+     "lesson": 1,
+     "core": false,
+     "source": "book",
+     "examples": [
+      {
+       "en": "I won the competition!",
+       "cz": "Vyhrál jsem soutěž!"
+      }
+     ]
+    }
+   ],
+   "phrases": [
+    {
+     "id": "fest-carnival-ph-put-on",
+     "en": "Put on your costume.",
+     "cz": "Obleč si kostým.",
+     "pattern": "Put on your ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "fest-carnival-ph-paint-your-face",
+     "en": "Paint your face.",
+     "cz": "Namaluj si obličej.",
+     "pattern": "Paint your ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "fest-carnival-ph-wear-a",
+     "en": "Wear a wig or a hat.",
+     "cz": "Nasaď si paruku nebo klobouk.",
+     "pattern": "Wear a ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "fest-carnival-ph-join-the-parade",
+     "en": "Join the parade. Dance and have fun.",
+     "cz": "Přidej se k průvodu. Tancuj a bav se.",
+     "pattern": "Join the ___.",
+     "core": true,
+     "source": "book"
+    },
+    {
+     "id": "fest-carnival-ph-hooray-i-won",
+     "en": "Hooray! I won!",
+     "cz": "Hurá! Vyhrál jsem!",
+     "pattern": null,
+     "core": true,
+     "source": "book"
+    }
+   ],
+   "schoolUnit": null
+  }
+ ],
+ "schemaVersion": 2,
+ "updatedAt": "2026-11-08",
+ "legend": {
+  "core": "slovo ze školního sešitu (jádro, zkoušeno ve škole)",
+  "bonus": "slovo navíc z učebnice (core=false)"
+ }
+}
